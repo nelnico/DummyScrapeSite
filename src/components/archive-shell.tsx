@@ -25,7 +25,9 @@ export function ArchiveShell({
     <div className="flex min-h-full flex-col">
       <header className="border-b border-neutral-300 bg-neutral-50 dark:border-neutral-800 dark:bg-neutral-900">
         <div className="mx-auto flex w-full max-w-5xl flex-wrap items-center gap-x-4 gap-y-2 px-6 py-5">
-          <Link href={`/level/${level.slug}`} className="archive-type">
+          {/* The masthead goes to the site home. Linking it at the level's own
+              archive would make it a dead click on the page you land on. */}
+          <Link href="/" className="archive-type hover:opacity-80">
             <span className="text-lg font-bold tracking-tight">
               {JOURNAL_NAME}
             </span>
@@ -44,7 +46,7 @@ export function ArchiveShell({
               href="/"
               className="text-neutral-500 underline-offset-4 hover:underline dark:text-neutral-400"
             >
-              All levels
+              &larr; All levels
             </Link>
           </nav>
         </div>

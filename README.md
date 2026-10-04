@@ -77,6 +77,24 @@ The journal (*Meridian Journal of Applied Sciences*), its papers, authors and
 institutions are entirely invented, and the PDF text is filler drawn from a
 fixed sentence pool.
 
+### How the numbering works
+
+The archive mimics print-journal numbering, which is where the composite values
+worth practising on come from:
+
+- **Volume** — one year of the journal. Volume 9 is 2020, up to volume 14 in 2025.
+- **Issue** — one edition within a volume. Quarterly, so four per volume
+  (Mar, Jun, Sep, Dec). The list shows both as `14(2)`: volume 14, issue 2.
+- **Pages** — where the paper sits *inside that issue*, not how long the PDF is.
+  An issue is one booklet printed back-to-back, so its papers' ranges tile with
+  no gaps: `1-4`, `5-9`, `10-15`, … The PDF's footer folios match, so page one
+  of a paper is rarely page 1.
+
+Within an issue, running order follows publication date, so a paper's sequence
+number (`mjas-14-2-03`), its page range and its date all agree. In the manifest
+these are separate fields: `volume`, `issue`, `firstPage`, `pageRange` and
+`pageCount`.
+
 The PDFs deliberately sit **outside** `public/`. Every download therefore has to
 pass through a level's own route handler, which is what lets later levels gate
 them with tokens, sessions or rate limits without moving any files.

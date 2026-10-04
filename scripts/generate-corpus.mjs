@@ -313,78 +313,121 @@ async function buildPdf(paper, layout) {
   return { bytes: await doc.save(), pageCount: pages.length };
 }
 
+/** Pre-rolls body text so both layout passes render identical content. */
+function makeLayout() {
+  const sections = [];
+  for (const heading of SECTION_HEADINGS.slice(0, pickInt(4, SECTION_HEADINGS.length))) {
+    const paragraphs = [];
+    for (let p = 0; p < pickInt(2, 6); p += 1) {
+      paragraphs.push(drawSentences(pickInt(4, 9)).join(" "));
+    }
+    sections.push({ heading, paragraphs });
+  }
+  return { sections };
+}
+
+/** The volume/issue slots papers get distributed into, oldest issue first. */
+function makeIssueSlots() {
+  const slots = [];
+  let volume = FIRST_VOLUME;
+  let issue = 1;
+  for (let remaining = PAPER_COUNT; remaining > 0; remaining -= PAPERS_PER_ISSUE) {
+    slots.push({
+      volume,
+      issue,
+      count: Math.min(remaining, PAPERS_PER_ISSUE),
+      papers: [],
+    });
+    issue += 1;
+    if (issue > ISSUES_PER_VOLUME) {
+      issue = 1;
+      volume += 1;
+    }
+  }
+  return slots;
+}
+
 async function main() {
   await rm(PDF_DIR, { recursive: true, force: true });
   await mkdir(PDF_DIR, { recursive: true });
   await mkdir(path.dirname(MANIFEST), { recursive: true });
 
-  const papers = [];
-  const folioByIssue = new Map();
+  const slots = makeIssueSlots();
 
-  let volume = FIRST_VOLUME;
-  let issue = 1;
-  let seq = 1;
+  // --- Invent every paper, issue by issue ---
+  for (const slot of slots) {
+    const usedDays = new Set();
 
-  for (let i = 0; i < PAPER_COUNT; i += 1) {
-    const section = pick(SECTIONS);
-    const title = pick(TITLE_PATTERNS)(section);
-    const id = `mjas-${volume}-${issue}-${String(seq).padStart(2, "0")}`;
-    const issueKey = `${volume}-${issue}`;
-    const firstPage = folioByIssue.get(issueKey) ?? 1;
+    for (let n = 0; n < slot.count; n += 1) {
+      // Distinct days, so ordering an issue by date never hits a tie.
+      let day;
+      do {
+        day = pickInt(1, 28);
+      } while (usedDays.has(day));
+      usedDays.add(day);
 
-    // Pre-roll the body text so both layout passes render identical content.
-    const layout = { sections: [] };
-    for (const heading of SECTION_HEADINGS.slice(0, pickInt(4, SECTION_HEADINGS.length))) {
-      const paragraphs = [];
-      for (let p = 0; p < pickInt(2, 6); p += 1) {
-        paragraphs.push(drawSentences(pickInt(4, 9)).join(" "));
-      }
-      layout.sections.push({ heading, paragraphs });
+      const section = pick(SECTIONS);
+      slot.papers.push({
+        section,
+        title: pick(TITLE_PATTERNS)(section),
+        authors: makeAuthors(),
+        affiliation: pick(INSTITUTIONS),
+        keywords: makeKeywords(),
+        abstract: makeAbstract(section),
+        publishedAt: issueDate(slot.volume, slot.issue, day).toISOString(),
+        layout: makeLayout(),
+      });
     }
 
-    const paper = {
-      id,
-      title,
-      authors: makeAuthors(),
-      affiliation: pick(INSTITUTIONS),
-      section: section.name,
-      sectionCode: section.code,
-      journal: JOURNAL,
-      volume,
-      issue,
-      doi: `10.5281/mjas.${volume}.${issue}.${String(seq).padStart(2, "0")}`,
-      publishedAt: issueDate(volume, issue, pickInt(1, 28)).toISOString(),
-      keywords: makeKeywords(),
-      abstract: makeAbstract(section),
-      firstPage,
-      pageCount: 0,
-      pageRange: "",
-      fileName: `${id}.pdf`,
-      fileSize: 0,
-    };
+    // Running order within an issue follows publication date, so a paper's
+    // sequence number, its page range and its date all tell the same story.
+    slot.papers.sort((a, b) => a.publishedAt.localeCompare(b.publishedAt));
+  }
 
-    // Lay out twice: the first pass reveals the real page count, which both the
-    // citation page range and the next paper's starting folio depend on.
-    const probe = await buildPdf(paper, layout);
-    paper.pageCount = probe.pageCount;
-    paper.pageRange = `${firstPage}-${firstPage + probe.pageCount - 1}`;
-    folioByIssue.set(issueKey, firstPage + probe.pageCount);
+  // --- Render, numbering each issue's pages in running order ---
+  const papers = [];
 
-    const final = await buildPdf(paper, layout);
-    const target = path.join(PDF_DIR, paper.fileName);
-    await writeFile(target, final.bytes);
-    paper.fileSize = (await stat(target)).size;
+  for (const slot of slots) {
+    let firstPage = 1;
 
-    papers.push(paper);
+    for (const [index, spec] of slot.papers.entries()) {
+      const seq = String(index + 1).padStart(2, "0");
+      const id = `mjas-${slot.volume}-${slot.issue}-${seq}`;
 
-    seq += 1;
-    if (seq > PAPERS_PER_ISSUE) {
-      seq = 1;
-      issue += 1;
-      if (issue > ISSUES_PER_VOLUME) {
-        issue = 1;
-        volume += 1;
-      }
+      const paper = {
+        id,
+        title: spec.title,
+        authors: spec.authors,
+        affiliation: spec.affiliation,
+        section: spec.section.name,
+        sectionCode: spec.section.code,
+        journal: JOURNAL,
+        volume: slot.volume,
+        issue: slot.issue,
+        doi: `10.5281/mjas.${slot.volume}.${slot.issue}.${seq}`,
+        publishedAt: spec.publishedAt,
+        keywords: spec.keywords,
+        abstract: spec.abstract,
+        firstPage,
+        pageCount: 0,
+        pageRange: "",
+        fileName: `${id}.pdf`,
+        fileSize: 0,
+      };
+
+      // Lay out twice: the first pass reveals the real page count, which both
+      // the citation page range and the next paper's starting folio depend on.
+      const probe = await buildPdf(paper, spec.layout);
+      paper.pageCount = probe.pageCount;
+      paper.pageRange = `${firstPage}-${firstPage + probe.pageCount - 1}`;
+
+      const final = await buildPdf(paper, spec.layout);
+      const target = path.join(PDF_DIR, paper.fileName);
+      await writeFile(target, final.bytes);
+      paper.fileSize = (await stat(target)).size;
+
+      firstPage += probe.pageCount;
+      papers.push(paper);
     }
   }
 
