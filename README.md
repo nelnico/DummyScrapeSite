@@ -28,13 +28,13 @@ Then open <http://localhost:3000> for the level index.
 
 ## The levels
 
-Levels live at `/level/<slug>`. Only level 01 exists so far; the rest are
+Levels live at `/level/<slug>`. Levels 01 and 02 exist so far; the rest are
 designed but not built.
 
 | # | Slug | Level | What it forces you to learn |
 | --- | --- | --- | --- |
 | 01 | `01-plain` | Plain HTML | Fetch, parse HTML, follow pagination, walk list → detail → file |
-| 02 | `02-form-post` | Form POST download | Read hidden form fields, send a POST |
+| 02 | `02-form-post` | Form POST download | Read hidden form fields, send a POST with the right body |
 | 03 | `03-js-rendered` | JavaScript-rendered list | Find the XHR, or drive a headless browser |
 | 04 | `04-login` | Login required | Post credentials, persist session cookies |
 | 05 | `05-captcha` | CAPTCHA gate | Read a challenge off the page and answer it |
@@ -66,6 +66,43 @@ Entirely undefended, so it is the baseline you measure the others against.
 
 The last page holds 7 rows, not 10, which is deliberate: it catches scrapers
 that assume a full page.
+
+### Level 02 — Form POST download
+
+The list and detail pages are the same as level 01, except that **no PDF URL
+appears anywhere in the HTML**. Collecting hrefs gets you nothing; each row's
+PDF cell holds a `<form>` instead.
+
+- `GET /level/02-form-post?page=N` and
+  `GET /level/02-form-post/paper/<id>` — unchanged from level 01, same rows,
+  same `data-paper-id`, same pagination rules.
+- Every `Download` control is a `<form class="download-form" method="post"
+  action="/level/02-form-post/download">` with two hidden inputs:
+  - `paper` — the paper id, e.g. `mjas-14-2-03`
+  - `grant` — a 32-character hex string tied to that paper
+- `POST /level/02-form-post/download` — returns the PDF as an attachment.
+
+The grant is `HMAC-SHA256(key="mjas-level-02-download-grant", msg=<paper id>)`
+hex-encoded and truncated to 32 characters — see
+`src/app/level/02-form-post/grant.ts`. The secret is published so you *can*
+compute grants yourself, but the intended solution is to read the hidden field
+off the page. Grants do not expire; rotating tokens are level 09.
+
+Every rejection is plain text and says what was wrong:
+
+| Request | Response |
+| --- | --- |
+| `GET /level/02-form-post/download` | `405` + `Allow: POST` |
+| POST with a JSON body | `415` — send `application/x-www-form-urlencoded` or `multipart/form-data` |
+| POST missing `paper` or `grant` | `400` |
+| POST naming an unknown paper | `404` |
+| POST with another paper's `grant` | `403` |
+| POST with a matching pair | `200`, `application/pdf` |
+
+The traps worth knowing about: the grant is **per paper**, so reusing the first
+row's grant for every download fails with a `403`; and most HTTP clients default
+to JSON when handed a dict, which earns a `415` until you switch to a form body
+(`data=` rather than `json=` in `requests`/`httpx`).
 
 ## The corpus
 
@@ -111,6 +148,11 @@ src/
       page.tsx                 paginated list
       paper/[id]/page.tsx      detail page
       download/[file]/route.ts PDF download
+    level/02-form-post/        levels are self-contained, not shared
+      page.tsx                 same list, Download is a form
+      paper/[id]/page.tsx      detail page
+      download/route.ts        POST-only PDF download
+      grant.ts                 the hidden field's HMAC
   components/archive-shell.tsx shared masthead, level banner, footer
   data/papers.json             generated manifest
   lib/

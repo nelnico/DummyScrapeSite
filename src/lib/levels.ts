@@ -39,10 +39,10 @@ export const levels: Level[] = [
     number: 2,
     name: "Form POST download",
     summary:
-      "Downloads are POST-only and need a hidden field lifted from the page. GETting the file URL fails.",
+      "Downloads are POST-only and need a hidden grant lifted from the paper's form. There is no file URL to GET.",
     forces: "Read hidden form fields, send a POST, keep request bodies right.",
     difficulty: 2,
-    status: "planned",
+    status: "available",
   },
   {
     slug: "03-js-rendered",
