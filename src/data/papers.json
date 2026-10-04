@@ -1,0 +1,3992 @@
+[
+  {
+    "id": "mjas-14-3-01",
+    "title": "Toward Sediment-Linked Methane Fluxes: Evidence from Urban Heat Islands",
+    "authors": [
+      "Priya Gorecki",
+      "Imogen Dusseault",
+      "Tamsin Drummond",
+      "Beatriz Vasquez"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 3,
+    "doi": "10.5281/mjas.14.3.01",
+    "publishedAt": "2025-09-24T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "benchmarking",
+      "scaling laws",
+      "cohort design",
+      "finite elements"
+    ],
+    "abstract": "This paper reports a systematic evaluation of drought-sensitive aerosol budgets. Residual error grows approximately linearly with the number of coupled parameters. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-14-3-01.pdf",
+    "fileSize": 7444
+  },
+  {
+    "id": "mjas-14-3-05",
+    "title": "Characterizing Fiber Scaffolds in Vacuum Conditions",
+    "authors": [
+      "Greta Zielinski"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 3,
+    "doi": "10.5281/mjas.14.3.05",
+    "publishedAt": "2025-09-17T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "cross-validation",
+      "spectral analysis",
+      "error propagation",
+      "field trial"
+    ],
+    "abstract": "This paper reports a systematic evaluation of porous lattice alloys. Neither of the alternative formulations improved on the simple additive model in our setting. We release the processing scripts and intermediate artefacts to support independent verification. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 14,
+    "pageCount": 3,
+    "pageRange": "14-16",
+    "fileName": "mjas-14-3-05.pdf",
+    "fileSize": 6886
+  },
+  {
+    "id": "mjas-14-3-04",
+    "title": "Groundwater Recharge Revisited: A Coupled Perspective",
+    "authors": [
+      "Devraj Rasmussen",
+      "Mathis Marchetti"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 3,
+    "doi": "10.5281/mjas.14.3.04",
+    "publishedAt": "2025-09-17T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "surrogate modelling",
+      "spectral analysis"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The measurements reported here were collected over twelve independent trials under controlled conditions. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 11,
+    "pageCount": 3,
+    "pageRange": "11-13",
+    "fileName": "mjas-14-3-04.pdf",
+    "fileSize": 6924
+  },
+  {
+    "id": "mjas-14-3-03",
+    "title": "Quantifying Uncertainty in Coupled Estuarine Salinity",
+    "authors": [
+      "Sten Strand",
+      "Rosalind Rasmussen",
+      "Elke Zielinski",
+      "Jarrah Pendergast",
+      "Hyun-woo Bhattacharya"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 3,
+    "doi": "10.5281/mjas.14.3.03",
+    "publishedAt": "2025-09-16T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "calibration",
+      "scaling laws",
+      "cohort design",
+      "parameter sweep"
+    ],
+    "abstract": "This paper reports a systematic evaluation of drought-sensitive canopy reflectance. Neither of the alternative formulations improved on the simple additive model in our setting. The measurements reported here were collected over twelve independent trials under controlled conditions. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 7,
+    "pageCount": 4,
+    "pageRange": "7-10",
+    "fileName": "mjas-14-3-03.pdf",
+    "fileSize": 9088
+  },
+  {
+    "id": "mjas-14-3-02",
+    "title": "Organoid Cultures Revisited: A Minimally Invasive Perspective",
+    "authors": [
+      "Wren Kowalczyk",
+      "Anders Ueckermann",
+      "Priya Ibsen",
+      "Lucia Cisneros",
+      "Devraj Yarborough"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 3,
+    "doi": "10.5281/mjas.14.3.02",
+    "publishedAt": "2025-09-12T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "noise robustness",
+      "cohort design"
+    ],
+    "abstract": "We examine the behaviour of tissue phantoms in ambulatory trials. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Calibration drift over the trial period remained below the threshold set out in the protocol. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 4,
+    "pageCount": 3,
+    "pageRange": "4-6",
+    "fileName": "mjas-14-3-02.pdf",
+    "fileSize": 7413
+  },
+  {
+    "id": "mjas-14-2-04",
+    "title": "Nanostructured Lattice Alloys for Additive Manufacturing",
+    "authors": [
+      "Wren Jovanovic",
+      "Mathis Nakashima",
+      "Cordelia Halvorsen",
+      "Dilnoza Vasquez",
+      "Faisal Nakashima"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.04",
+    "publishedAt": "2025-06-23T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "field trial",
+      "finite elements",
+      "surrogate modelling"
+    ],
+    "abstract": "This paper reports a systematic evaluation of nanostructured crystalline coatings. Replicate agreement was high, suggesting the protocol is robust to small handling differences. The reduced model retains most of the explanatory power at a fraction of the computational cost. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 15,
+    "pageCount": 5,
+    "pageRange": "15-19",
+    "fileName": "mjas-14-2-04.pdf",
+    "fileSize": 12478
+  },
+  {
+    "id": "mjas-14-2-06",
+    "title": "Streaming Joins Revisited: A Probabilistic Perspective",
+    "authors": [
+      "Dilnoza Jovanovic",
+      "Dilnoza Halvorsen",
+      "Devraj Oyelaran",
+      "Lucia Pendergast"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.06",
+    "publishedAt": "2025-06-19T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "finite elements",
+      "noise robustness",
+      "spectral analysis",
+      "surrogate modelling"
+    ],
+    "abstract": "This paper reports a systematic evaluation of sparse graph embeddings. We release the processing scripts and intermediate artefacts to support independent verification. Sensitivity to the smoothing window proved modest across the range we examined. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 23,
+    "pageCount": 4,
+    "pageRange": "23-26",
+    "fileName": "mjas-14-2-06.pdf",
+    "fileSize": 9824
+  },
+  {
+    "id": "mjas-14-2-02",
+    "title": "Quantifying Uncertainty in Porous Ceramic Composites",
+    "authors": [
+      "Oleksandr Cisneros",
+      "Nadia Zielinski",
+      "Imogen Thibodeaux"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.02",
+    "publishedAt": "2025-06-19T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "ablation study",
+      "benchmarking",
+      "surrogate modelling"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 6,
+    "pageCount": 5,
+    "pageRange": "6-10",
+    "fileName": "mjas-14-2-02.pdf",
+    "fileSize": 12473
+  },
+  {
+    "id": "mjas-14-2-03",
+    "title": "Characterizing Scheduling Heuristics in Append-Only Stores",
+    "authors": [
+      "Devraj Brandvold",
+      "Anders Nakashima"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.03",
+    "publishedAt": "2025-06-07T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "scaling laws",
+      "finite elements",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of adaptive consensus protocols. Calibration drift over the trial period remained below the threshold set out in the protocol. Residual error grows approximately linearly with the number of coupled parameters. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 11,
+    "pageCount": 4,
+    "pageRange": "11-14",
+    "fileName": "mjas-14-2-03.pdf",
+    "fileSize": 8516
+  },
+  {
+    "id": "mjas-14-2-05",
+    "title": "Perfusion Assays Revisited: A Wearable Perspective",
+    "authors": [
+      "Fenna Brandvold",
+      "Mathis Eyre",
+      "Faisal Rasmussen"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.05",
+    "publishedAt": "2025-06-06T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "reproducibility",
+      "cohort design",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of immunomodulatory imaging pipelines. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The reduced model retains most of the explanatory power at a fraction of the computational cost. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 20,
+    "pageCount": 3,
+    "pageRange": "20-22",
+    "fileName": "mjas-14-2-05.pdf",
+    "fileSize": 7057
+  },
+  {
+    "id": "mjas-14-2-01",
+    "title": "On the Stability of Drought-Sensitive Groundwater Recharge",
+    "authors": [
+      "Greta Strand",
+      "Caius Bhattacharya",
+      "Anders Gorecki",
+      "Oleksandr Ueckermann"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 2,
+    "doi": "10.5281/mjas.14.2.01",
+    "publishedAt": "2025-06-01T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "finite elements",
+      "noise robustness",
+      "surrogate modelling",
+      "benchmarking"
+    ],
+    "abstract": "This paper reports a systematic evaluation of basin-scale aerosol budgets. The reduced model retains most of the explanatory power at a fraction of the computational cost. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-14-2-01.pdf",
+    "fileSize": 11821
+  },
+  {
+    "id": "mjas-14-1-02",
+    "title": "Revisiting Imaging Pipelines under Label-Free Constraints",
+    "authors": [
+      "Zofia Gorecki",
+      "Sten Marchetti",
+      "Elke Xanthos",
+      "Alina Drummond"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.02",
+    "publishedAt": "2025-03-15T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "cross-validation",
+      "sensitivity analysis",
+      "surrogate modelling",
+      "parameter sweep"
+    ],
+    "abstract": "We examine the behaviour of organoid cultures in resource-limited clinics. Sensitivity to the smoothing window proved modest across the range we examined. The reduced model retains most of the explanatory power at a fraction of the computational cost. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 6,
+    "pageCount": 5,
+    "pageRange": "6-10",
+    "fileName": "mjas-14-1-02.pdf",
+    "fileSize": 11263
+  },
+  {
+    "id": "mjas-14-1-03",
+    "title": "Characterizing Groundwater Recharge in Boreal Peatlands",
+    "authors": [
+      "Fenna Brandvold",
+      "Alina Lindqvist"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.03",
+    "publishedAt": "2025-03-13T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "scaling laws",
+      "parameter sweep",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of long-term soil carbon pools. Longer observation windows narrow the confidence interval but do not shift the central estimate. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 11,
+    "pageCount": 7,
+    "pageRange": "11-17",
+    "fileName": "mjas-14-1-03.pdf",
+    "fileSize": 15375
+  },
+  {
+    "id": "mjas-14-1-04",
+    "title": "Revisiting Aerogel Matrices under Photoactive Constraints",
+    "authors": [
+      "Mathis Zielinski",
+      "Bastian Abernathy",
+      "Dilnoza Strand"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.04",
+    "publishedAt": "2025-03-11T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "cohort design",
+      "spectral analysis"
+    ],
+    "abstract": "We examine the behaviour of polymer blends in high-cycle fatigue. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 18,
+    "pageCount": 4,
+    "pageRange": "18-21",
+    "fileName": "mjas-14-1-04.pdf",
+    "fileSize": 8956
+  },
+  {
+    "id": "mjas-14-1-06",
+    "title": "Quantifying Uncertainty in Porous Lattice Alloys",
+    "authors": [
+      "Quentin Yarborough"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.06",
+    "publishedAt": "2025-03-10T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "cost accounting",
+      "error propagation",
+      "spectral analysis"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. The measurements reported here were collected over twelve independent trials under controlled conditions. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 26,
+    "pageCount": 5,
+    "pageRange": "26-30",
+    "fileName": "mjas-14-1-06.pdf",
+    "fileSize": 12468
+  },
+  {
+    "id": "mjas-14-1-01",
+    "title": "Characterizing Fiber Scaffolds in Corrosive Media",
+    "authors": [
+      "Ulrich Thibodeaux",
+      "Jarrah Jovanovic"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.01",
+    "publishedAt": "2025-03-08T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "parameter sweep",
+      "scaling laws"
+    ],
+    "abstract": "This paper reports a systematic evaluation of photoactive polymer blends. We release the processing scripts and intermediate artefacts to support independent verification. The reduced model retains most of the explanatory power at a fraction of the computational cost. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-14-1-01.pdf",
+    "fileSize": 11846
+  },
+  {
+    "id": "mjas-14-1-05",
+    "title": "Dose-Adaptive Biomarker Panels for Resource-Limited Clinics",
+    "authors": [
+      "Ulrich Eyre",
+      "Bastian Eyre"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 14,
+    "issue": 1,
+    "doi": "10.5281/mjas.14.1.05",
+    "publishedAt": "2025-03-01T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "finite elements",
+      "cross-validation",
+      "cohort design",
+      "surrogate modelling"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Taken together, these findings argue for treating the two regimes separately in future analyses. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 22,
+    "pageCount": 4,
+    "pageRange": "22-25",
+    "fileName": "mjas-14-1-05.pdf",
+    "fileSize": 9807
+  },
+  {
+    "id": "mjas-13-4-04",
+    "title": "Aerosol Budgets Revisited: A Downscaled Perspective",
+    "authors": [
+      "Mathis Xanthos",
+      "Bastian Thibodeaux"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.04",
+    "publishedAt": "2024-12-28T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "sensitivity analysis",
+      "ablation study"
+    ],
+    "abstract": "We examine the behaviour of estuarine salinity in boreal peatlands. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. The reduced model retains most of the explanatory power at a fraction of the computational cost. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 13,
+    "pageCount": 6,
+    "pageRange": "13-18",
+    "fileName": "mjas-13-4-04.pdf",
+    "fileSize": 13248
+  },
+  {
+    "id": "mjas-13-4-06",
+    "title": "Nanostructured Ceramic Composites for Additive Manufacturing",
+    "authors": [
+      "Anders Whitlock",
+      "Alina Halvorsen",
+      "Zofia Strand",
+      "Elke Brandvold"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.06",
+    "publishedAt": "2024-12-20T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "scaling laws",
+      "cross-validation"
+    ],
+    "abstract": "We examine the behaviour of crystalline coatings in cryogenic service. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 23,
+    "pageCount": 4,
+    "pageRange": "23-26",
+    "fileName": "mjas-13-4-06.pdf",
+    "fileSize": 8144
+  },
+  {
+    "id": "mjas-13-4-02",
+    "title": "On the Stability of Microfluidic Drug Carriers",
+    "authors": [
+      "Oleksandr Rasmussen",
+      "Elke Ueckermann",
+      "Rosalind Halvorsen"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.02",
+    "publishedAt": "2024-12-20T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "ablation study",
+      "cohort design",
+      "sensitivity analysis",
+      "finite elements"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The reduced model retains most of the explanatory power at a fraction of the computational cost. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 4,
+    "pageCount": 5,
+    "pageRange": "4-8",
+    "fileName": "mjas-13-4-02.pdf",
+    "fileSize": 12305
+  },
+  {
+    "id": "mjas-13-4-01",
+    "title": "Query Planners Revisited: A Latency-Aware Perspective",
+    "authors": [
+      "Hyun-woo Dusseault",
+      "Lucia Abernathy",
+      "Beatriz Fontenot"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.01",
+    "publishedAt": "2024-12-20T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "reproducibility",
+      "field trial"
+    ],
+    "abstract": "We examine the behaviour of cache hierarchies in append-only stores. Calibration drift over the trial period remained below the threshold set out in the protocol. Sensitivity to the smoothing window proved modest across the range we examined. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-13-4-01.pdf",
+    "fileSize": 6745
+  },
+  {
+    "id": "mjas-13-4-05",
+    "title": "Quantifying Uncertainty in Differentiable Query Planners",
+    "authors": [
+      "Bastian Ueckermann"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.05",
+    "publishedAt": "2024-12-17T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "sensitivity analysis",
+      "spectral analysis"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. Taken together, these findings argue for treating the two regimes separately in future analyses. Longer observation windows narrow the confidence interval but do not shift the central estimate. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-13-4-05.pdf",
+    "fileSize": 9934
+  },
+  {
+    "id": "mjas-13-4-03",
+    "title": "A Comparative Study of Anisotropic Crystalline Coatings",
+    "authors": [
+      "Quentin Vasquez",
+      "Quentin Lindqvist",
+      "Yusuf Ueckermann",
+      "Bastian Lindqvist",
+      "Mathis Gorecki"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 4,
+    "doi": "10.5281/mjas.13.4.03",
+    "publishedAt": "2024-12-07T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "field trial",
+      "cross-validation"
+    ],
+    "abstract": "This paper reports a systematic evaluation of thermally stable ceramic composites. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 9,
+    "pageCount": 4,
+    "pageRange": "9-12",
+    "fileName": "mjas-13-4-03.pdf",
+    "fileSize": 9863
+  },
+  {
+    "id": "mjas-13-3-03",
+    "title": "Canopy Reflectance Revisited: A Sediment-Linked Perspective",
+    "authors": [
+      "Nadia Marchetti",
+      "Nadia Halvorsen"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.03",
+    "publishedAt": "2024-09-27T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "error propagation",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of seasonal aerosol budgets. Taken together, these findings argue for treating the two regimes separately in future analyses. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 11,
+    "pageCount": 5,
+    "pageRange": "11-15",
+    "fileName": "mjas-13-3-03.pdf",
+    "fileSize": 12259
+  },
+  {
+    "id": "mjas-13-3-05",
+    "title": "Grain Boundaries Revisited: A Anisotropic Perspective",
+    "authors": [
+      "Elke Dusseault",
+      "Caius Ibsen",
+      "Kenji Nakashima",
+      "Fenna Rasmussen",
+      "Hyun-woo Marchetti"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.05",
+    "publishedAt": "2024-09-25T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "ablation study",
+      "calibration"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. Calibration drift over the trial period remained below the threshold set out in the protocol. The reduced model retains most of the explanatory power at a fraction of the computational cost. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 20,
+    "pageCount": 5,
+    "pageRange": "20-24",
+    "fileName": "mjas-13-3-05.pdf",
+    "fileSize": 11617
+  },
+  {
+    "id": "mjas-13-3-04",
+    "title": "On the Stability of Latency-Aware Cache Hierarchies",
+    "authors": [
+      "Ulrich Castellanos",
+      "Yusuf Nakashima",
+      "Mathis Eyre"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.04",
+    "publishedAt": "2024-09-25T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "ablation study",
+      "noise robustness",
+      "surrogate modelling",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of consensus protocols in low-bandwidth links. The measurements reported here were collected over twelve independent trials under controlled conditions. We release the processing scripts and intermediate artefacts to support independent verification. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-13-3-04.pdf",
+    "fileSize": 8396
+  },
+  {
+    "id": "mjas-13-3-01",
+    "title": "A Comparative Study of Wearable Electrode Arrays",
+    "authors": [
+      "Faisal Aalto",
+      "Yusuf Yarborough",
+      "Yusuf Brandvold",
+      "Jarrah Yarborough"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.01",
+    "publishedAt": "2024-09-20T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "field trial",
+      "cost accounting",
+      "error propagation"
+    ],
+    "abstract": "We examine the behaviour of drug carriers in neonatal monitoring. Longer observation windows narrow the confidence interval but do not shift the central estimate. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 1,
+    "pageCount": 6,
+    "pageRange": "1-6",
+    "fileName": "mjas-13-3-01.pdf",
+    "fileSize": 14408
+  },
+  {
+    "id": "mjas-13-3-06",
+    "title": "A Comparative Study of Nanostructured Thin Films",
+    "authors": [
+      "Faisal Abernathy",
+      "Priya Drummond",
+      "Tamsin Xanthos"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.06",
+    "publishedAt": "2024-09-09T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "noise robustness",
+      "cohort design",
+      "error propagation"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 25,
+    "pageCount": 5,
+    "pageRange": "25-29",
+    "fileName": "mjas-13-3-06.pdf",
+    "fileSize": 12354
+  },
+  {
+    "id": "mjas-13-3-02",
+    "title": "Toward Ductile Polymer Blends: Evidence from Marine Environments",
+    "authors": [
+      "Xiulan Lindqvist",
+      "Imogen Abernathy",
+      "Imogen Marchetti",
+      "Lucia Bhattacharya"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 3,
+    "doi": "10.5281/mjas.13.3.02",
+    "publishedAt": "2024-09-02T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "finite elements",
+      "cross-validation",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of thin films in cryogenic service. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Neither of the alternative formulations improved on the simple additive model in our setting. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 7,
+    "pageCount": 4,
+    "pageRange": "7-10",
+    "fileName": "mjas-13-3-02.pdf",
+    "fileSize": 9022
+  },
+  {
+    "id": "mjas-13-2-04",
+    "title": "A Comparative Study of Latency-Aware Cache Hierarchies",
+    "authors": [
+      "Hyun-woo Whitlock",
+      "Valeria Eyre",
+      "Fenna Abernathy"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.04",
+    "publishedAt": "2024-06-22T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "parameter sweep",
+      "noise robustness",
+      "scaling laws"
+    ],
+    "abstract": "We examine the behaviour of query planners in edge deployments. Taken together, these findings argue for treating the two regimes separately in future analyses. Sensitivity to the smoothing window proved modest across the range we examined. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 14,
+    "pageCount": 4,
+    "pageRange": "14-17",
+    "fileName": "mjas-13-2-04.pdf",
+    "fileSize": 9689
+  },
+  {
+    "id": "mjas-13-2-01",
+    "title": "Revisiting Soil Carbon Pools under Seasonal Constraints",
+    "authors": [
+      "Cordelia Xanthos",
+      "Ulrich Abernathy",
+      "Oleksandr Jovanovic"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.01",
+    "publishedAt": "2024-06-21T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "surrogate modelling",
+      "cost accounting",
+      "spectral analysis",
+      "cohort design"
+    ],
+    "abstract": "We examine the behaviour of methane fluxes in coastal wetlands. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The measurements reported here were collected over twelve independent trials under controlled conditions. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-13-2-01.pdf",
+    "fileSize": 10213
+  },
+  {
+    "id": "mjas-13-2-06",
+    "title": "Toward Basin-Scale Canopy Reflectance: Evidence from Semi-Arid Rangelands",
+    "authors": [
+      "Rosalind Eyre",
+      "Kenji Nakashima",
+      "Valeria Vasquez"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.06",
+    "publishedAt": "2024-06-17T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "cross-validation",
+      "spectral analysis",
+      "scaling laws"
+    ],
+    "abstract": "We examine the behaviour of estuarine salinity in coastal wetlands. Sensitivity to the smoothing window proved modest across the range we examined. We release the processing scripts and intermediate artefacts to support independent verification. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 24,
+    "pageCount": 4,
+    "pageRange": "24-27",
+    "fileName": "mjas-13-2-06.pdf",
+    "fileSize": 8997
+  },
+  {
+    "id": "mjas-13-2-02",
+    "title": "Revisiting Perfusion Assays under Wearable Constraints",
+    "authors": [
+      "Elke Oyelaran",
+      "Oleksandr Kowalczyk"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.02",
+    "publishedAt": "2024-06-07T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "calibration",
+      "cohort design"
+    ],
+    "abstract": "We examine the behaviour of electrode arrays in resource-limited clinics. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 5,
+    "pageCount": 3,
+    "pageRange": "5-7",
+    "fileName": "mjas-13-2-02.pdf",
+    "fileSize": 7438
+  },
+  {
+    "id": "mjas-13-2-05",
+    "title": "Index Structures Revisited: A Latency-Aware Perspective",
+    "authors": [
+      "Greta Nakashima",
+      "Zofia Strand",
+      "Anders Dusseault",
+      "Kenji Castellanos",
+      "Imogen Halvorsen"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.05",
+    "publishedAt": "2024-06-05T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "cross-validation",
+      "noise robustness",
+      "error propagation",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of distributed query planners. We release the processing scripts and intermediate artefacts to support independent verification. Calibration drift over the trial period remained below the threshold set out in the protocol. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 18,
+    "pageCount": 6,
+    "pageRange": "18-23",
+    "fileName": "mjas-13-2-05.pdf",
+    "fileSize": 13114
+  },
+  {
+    "id": "mjas-13-2-03",
+    "title": "Methane Fluxes Revisited: A Seasonal Perspective",
+    "authors": [
+      "Zofia Halvorsen",
+      "Cordelia Zielinski"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 2,
+    "doi": "10.5281/mjas.13.2.03",
+    "publishedAt": "2024-06-05T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "surrogate modelling",
+      "sensitivity analysis",
+      "scaling laws",
+      "calibration"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Taken together, these findings argue for treating the two regimes separately in future analyses. The measurements reported here were collected over twelve independent trials under controlled conditions. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 8,
+    "pageCount": 6,
+    "pageRange": "8-13",
+    "fileName": "mjas-13-2-03.pdf",
+    "fileSize": 14586
+  },
+  {
+    "id": "mjas-13-1-04",
+    "title": "On the Stability of Adaptive Index Structures",
+    "authors": [
+      "Oleksandr Ueckermann",
+      "Valeria Rasmussen",
+      "Hyun-woo Oyelaran",
+      "Dilnoza Lindqvist",
+      "Greta Xanthos"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.04",
+    "publishedAt": "2024-03-19T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "finite elements",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of adaptive streaming joins. Longer observation windows narrow the confidence interval but do not shift the central estimate. The reduced model retains most of the explanatory power at a fraction of the computational cost. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 12,
+    "pageCount": 3,
+    "pageRange": "12-14",
+    "fileName": "mjas-13-1-04.pdf",
+    "fileSize": 7719
+  },
+  {
+    "id": "mjas-13-1-03",
+    "title": "Toward Dose-Adaptive Gait Signatures: Evidence from Chronic Wound Care",
+    "authors": [
+      "Kenji Yarborough",
+      "Yusuf Jovanovic",
+      "Dilnoza Xanthos"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.03",
+    "publishedAt": "2024-03-15T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "reproducibility",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of organoid cultures in ambulatory trials. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Residual error grows approximately linearly with the number of coupled parameters. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 9,
+    "pageCount": 3,
+    "pageRange": "9-11",
+    "fileName": "mjas-13-1-03.pdf",
+    "fileSize": 7903
+  },
+  {
+    "id": "mjas-13-1-06",
+    "title": "Toward Sediment-Linked Runoff Models: Evidence from Temperate Watersheds",
+    "authors": [
+      "Jarrah Drummond",
+      "Priya Quiroga"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.06",
+    "publishedAt": "2024-03-13T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "surrogate modelling",
+      "spectral analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of basin-scale soil carbon pools. Longer observation windows narrow the confidence interval but do not shift the central estimate. Taken together, these findings argue for treating the two regimes separately in future analyses. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-13-1-06.pdf",
+    "fileSize": 8866
+  },
+  {
+    "id": "mjas-13-1-02",
+    "title": "Quantifying Uncertainty in Coupled Groundwater Recharge",
+    "authors": [
+      "Wren Castellanos",
+      "Quentin Ueckermann",
+      "Tamsin Xanthos"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.02",
+    "publishedAt": "2024-03-11T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "noise robustness",
+      "spectral analysis"
+    ],
+    "abstract": "We examine the behaviour of canopy reflectance in semi-arid rangelands. The measurements reported here were collected over twelve independent trials under controlled conditions. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 4,
+    "pageCount": 5,
+    "pageRange": "4-8",
+    "fileName": "mjas-13-1-02.pdf",
+    "fileSize": 12479
+  },
+  {
+    "id": "mjas-13-1-01",
+    "title": "Distributed Streaming Joins for Serverless Runtimes",
+    "authors": [
+      "Oleksandr Quiroga",
+      "Imogen Cisneros"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.01",
+    "publishedAt": "2024-03-07T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "reproducibility",
+      "spectral analysis",
+      "noise robustness"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. The reduced model retains most of the explanatory power at a fraction of the computational cost. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-13-1-01.pdf",
+    "fileSize": 7757
+  },
+  {
+    "id": "mjas-13-1-05",
+    "title": "Fiber Scaffolds Revisited: A Ductile Perspective",
+    "authors": [
+      "Faisal Nakashima",
+      "Tamsin Eyre",
+      "Sten Cisneros"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 13,
+    "issue": 1,
+    "doi": "10.5281/mjas.13.1.05",
+    "publishedAt": "2024-03-02T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "reproducibility",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of lattice alloys in vacuum conditions. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 15,
+    "pageCount": 4,
+    "pageRange": "15-18",
+    "fileName": "mjas-13-1-05.pdf",
+    "fileSize": 9704
+  },
+  {
+    "id": "mjas-12-4-05",
+    "title": "Revisiting Query Planners under Differentiable Constraints",
+    "authors": [
+      "Lucia Jovanovic",
+      "Hyun-woo Gorecki",
+      "Lucia Nakashima",
+      "Yusuf Halvorsen",
+      "Sten Nakashima"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.05",
+    "publishedAt": "2023-12-26T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "cross-validation",
+      "benchmarking"
+    ],
+    "abstract": "This paper reports a systematic evaluation of differentiable graph embeddings. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Residual error grows approximately linearly with the number of coupled parameters. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-12-4-05.pdf",
+    "fileSize": 10221
+  },
+  {
+    "id": "mjas-12-4-02",
+    "title": "Toward Adaptive Cache Hierarchies: Evidence from Serverless Runtimes",
+    "authors": [
+      "Hyun-woo Cisneros",
+      "Mathis Nakashima"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.02",
+    "publishedAt": "2023-12-22T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "cost accounting",
+      "cohort design",
+      "finite elements"
+    ],
+    "abstract": "We examine the behaviour of streaming joins in low-bandwidth links. Longer observation windows narrow the confidence interval but do not shift the central estimate. Residual error grows approximately linearly with the number of coupled parameters. Replicate agreement was high, suggesting the protocol is robust to small handling differences.",
+    "firstPage": 5,
+    "pageCount": 6,
+    "pageRange": "5-10",
+    "fileName": "mjas-12-4-02.pdf",
+    "fileSize": 14015
+  },
+  {
+    "id": "mjas-12-4-03",
+    "title": "Longitudinal Tissue Phantoms for Point-of-Care Settings",
+    "authors": [
+      "Faisal Xanthos",
+      "Yusuf Dusseault",
+      "Oleksandr Kowalczyk",
+      "Quentin Aalto"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.03",
+    "publishedAt": "2023-12-16T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "cross-validation",
+      "error propagation"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The measurements reported here were collected over twelve independent trials under controlled conditions. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 11,
+    "pageCount": 3,
+    "pageRange": "11-13",
+    "fileName": "mjas-12-4-03.pdf",
+    "fileSize": 7579
+  },
+  {
+    "id": "mjas-12-4-04",
+    "title": "Sparse Streaming Joins for Multi-Tenant Pipelines",
+    "authors": [
+      "Anders Kowalczyk",
+      "Rosalind Drummond",
+      "Oleksandr Xanthos",
+      "Anders Oyelaran",
+      "Caius Thibodeaux"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.04",
+    "publishedAt": "2023-12-10T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "sensitivity analysis",
+      "cross-validation",
+      "scaling laws",
+      "reproducibility"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. We release the processing scripts and intermediate artefacts to support independent verification. Neither of the alternative formulations improved on the simple additive model in our setting. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 14,
+    "pageCount": 5,
+    "pageRange": "14-18",
+    "fileName": "mjas-12-4-04.pdf",
+    "fileSize": 11408
+  },
+  {
+    "id": "mjas-12-4-06",
+    "title": "A Comparative Study of Downscaled Soil Carbon Pools",
+    "authors": [
+      "Cordelia Aalto",
+      "Bastian Eyre",
+      "Zofia Thibodeaux"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.06",
+    "publishedAt": "2023-12-07T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "ablation study",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of methane fluxes in alpine catchments. Longer observation windows narrow the confidence interval but do not shift the central estimate. The reduced model retains most of the explanatory power at a fraction of the computational cost. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 23,
+    "pageCount": 4,
+    "pageRange": "23-26",
+    "fileName": "mjas-12-4-06.pdf",
+    "fileSize": 10430
+  },
+  {
+    "id": "mjas-12-4-01",
+    "title": "Characterizing Electrode Arrays in Resource-Limited Clinics",
+    "authors": [
+      "Ulrich Brandvold",
+      "Xiulan Vasquez",
+      "Elke Bhattacharya",
+      "Alina Jovanovic"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 4,
+    "doi": "10.5281/mjas.12.4.01",
+    "publishedAt": "2023-12-06T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "calibration",
+      "scaling laws",
+      "sensitivity analysis"
+    ],
+    "abstract": "We examine the behaviour of imaging pipelines in point-of-care settings. Residual error grows approximately linearly with the number of coupled parameters. The measurements reported here were collected over twelve independent trials under controlled conditions. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-12-4-01.pdf",
+    "fileSize": 9951
+  },
+  {
+    "id": "mjas-12-3-02",
+    "title": "Toward Minimally Invasive Biomarker Panels: Evidence from Ambulatory Trials",
+    "authors": [
+      "Quentin Strand",
+      "Bastian Xanthos"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.02",
+    "publishedAt": "2023-09-22T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "reproducibility",
+      "scaling laws",
+      "surrogate modelling"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in resource-limited clinics. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The reduced model retains most of the explanatory power at a fraction of the computational cost. Replicate agreement was high, suggesting the protocol is robust to small handling differences.",
+    "firstPage": 4,
+    "pageCount": 3,
+    "pageRange": "4-6",
+    "fileName": "mjas-12-3-02.pdf",
+    "fileSize": 7805
+  },
+  {
+    "id": "mjas-12-3-03",
+    "title": "Characterizing Polymer Blends in High-Cycle Fatigue",
+    "authors": [
+      "Tamsin Marchetti"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.03",
+    "publishedAt": "2023-09-16T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "benchmarking",
+      "surrogate modelling",
+      "error propagation"
+    ],
+    "abstract": "We examine the behaviour of crystalline coatings in marine environments. Residual error grows approximately linearly with the number of coupled parameters. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 7,
+    "pageCount": 6,
+    "pageRange": "7-12",
+    "fileName": "mjas-12-3-03.pdf",
+    "fileSize": 13908
+  },
+  {
+    "id": "mjas-12-3-01",
+    "title": "Nanostructured Grain Boundaries for Marine Environments",
+    "authors": [
+      "Valeria Oyelaran",
+      "Alina Drummond",
+      "Bastian Lindqvist"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.01",
+    "publishedAt": "2023-09-10T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "sensitivity analysis",
+      "parameter sweep",
+      "scaling laws"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. The measurements reported here were collected over twelve independent trials under controlled conditions. Sensitivity to the smoothing window proved modest across the range we examined. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-12-3-01.pdf",
+    "fileSize": 7631
+  },
+  {
+    "id": "mjas-12-3-05",
+    "title": "Characterizing Aerogel Matrices in Additive Manufacturing",
+    "authors": [
+      "Wren Pendergast",
+      "Rosalind Dusseault"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.05",
+    "publishedAt": "2023-09-09T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "surrogate modelling",
+      "ablation study"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The reduced model retains most of the explanatory power at a fraction of the computational cost. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 16,
+    "pageCount": 3,
+    "pageRange": "16-18",
+    "fileName": "mjas-12-3-05.pdf",
+    "fileSize": 7344
+  },
+  {
+    "id": "mjas-12-3-06",
+    "title": "On the Stability of Immunomodulatory Electrode Arrays",
+    "authors": [
+      "Kenji Quiroga",
+      "Devraj Ibsen",
+      "Alina Vasquez",
+      "Fenna Brandvold"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.06",
+    "publishedAt": "2023-09-05T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "ablation study",
+      "error propagation",
+      "surrogate modelling",
+      "finite elements"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Taken together, these findings argue for treating the two regimes separately in future analyses. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-12-3-06.pdf",
+    "fileSize": 9008
+  },
+  {
+    "id": "mjas-12-3-04",
+    "title": "Revisiting Aerosol Budgets under Seasonal Constraints",
+    "authors": [
+      "Imogen Pendergast"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 3,
+    "doi": "10.5281/mjas.12.3.04",
+    "publishedAt": "2023-09-05T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "finite elements",
+      "scaling laws",
+      "reproducibility",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of runoff models in urban heat islands. The reduced model retains most of the explanatory power at a fraction of the computational cost. We release the processing scripts and intermediate artefacts to support independent verification. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 13,
+    "pageCount": 3,
+    "pageRange": "13-15",
+    "fileName": "mjas-12-3-04.pdf",
+    "fileSize": 7198
+  },
+  {
+    "id": "mjas-12-2-02",
+    "title": "Quantifying Uncertainty in Label-Free Drug Carriers",
+    "authors": [
+      "Nadia Vasquez",
+      "Anders Quiroga"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.02",
+    "publishedAt": "2023-06-15T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "ablation study",
+      "sensitivity analysis",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of biomarker panels in ambulatory trials. The reduced model retains most of the explanatory power at a fraction of the computational cost. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 6,
+    "pageCount": 5,
+    "pageRange": "6-10",
+    "fileName": "mjas-12-2-02.pdf",
+    "fileSize": 11603
+  },
+  {
+    "id": "mjas-12-2-06",
+    "title": "Characterizing Soil Carbon Pools in Alpine Catchments",
+    "authors": [
+      "Mathis Jovanovic"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.06",
+    "publishedAt": "2023-06-14T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "finite elements",
+      "scaling laws"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. The reduced model retains most of the explanatory power at a fraction of the computational cost. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 22,
+    "pageCount": 5,
+    "pageRange": "22-26",
+    "fileName": "mjas-12-2-06.pdf",
+    "fileSize": 11928
+  },
+  {
+    "id": "mjas-12-2-04",
+    "title": "Characterizing Gait Signatures in Resource-Limited Clinics",
+    "authors": [
+      "Mathis Halvorsen",
+      "Xiulan Fontenot"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.04",
+    "publishedAt": "2023-06-14T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "scaling laws",
+      "field trial",
+      "cross-validation",
+      "cost accounting"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Calibration drift over the trial period remained below the threshold set out in the protocol. We release the processing scripts and intermediate artefacts to support independent verification. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 15,
+    "pageCount": 3,
+    "pageRange": "15-17",
+    "fileName": "mjas-12-2-04.pdf",
+    "fileSize": 7283
+  },
+  {
+    "id": "mjas-12-2-05",
+    "title": "Toward Satellite-Derived Soil Carbon Pools: Evidence from Semi-Arid Rangelands",
+    "authors": [
+      "Mathis Jovanovic"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.05",
+    "publishedAt": "2023-06-11T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "scaling laws",
+      "cross-validation",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of drought-sensitive canopy reflectance. Residual error grows approximately linearly with the number of coupled parameters. We release the processing scripts and intermediate artefacts to support independent verification. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 18,
+    "pageCount": 4,
+    "pageRange": "18-21",
+    "fileName": "mjas-12-2-05.pdf",
+    "fileSize": 9600
+  },
+  {
+    "id": "mjas-12-2-01",
+    "title": "Quantifying Uncertainty in Long-Term Runoff Models",
+    "authors": [
+      "Kenji Kowalczyk",
+      "Dilnoza Rasmussen",
+      "Ulrich Rasmussen",
+      "Mathis Quiroga",
+      "Kenji Ueckermann"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.01",
+    "publishedAt": "2023-06-10T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "cohort design",
+      "sensitivity analysis",
+      "cost accounting",
+      "scaling laws"
+    ],
+    "abstract": "We examine the behaviour of canopy reflectance in urban heat islands. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-12-2-01.pdf",
+    "fileSize": 12239
+  },
+  {
+    "id": "mjas-12-2-03",
+    "title": "Quantifying Uncertainty in Sediment-Linked Groundwater Recharge",
+    "authors": [
+      "Devraj Aalto",
+      "Ulrich Ibsen"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 2,
+    "doi": "10.5281/mjas.12.2.03",
+    "publishedAt": "2023-06-01T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "cost accounting",
+      "scaling laws",
+      "field trial",
+      "surrogate modelling"
+    ],
+    "abstract": "We examine the behaviour of snowpack persistence in urban heat islands. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Calibration drift over the trial period remained below the threshold set out in the protocol. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 11,
+    "pageCount": 4,
+    "pageRange": "11-14",
+    "fileName": "mjas-12-2-03.pdf",
+    "fileSize": 9724
+  },
+  {
+    "id": "mjas-12-1-01",
+    "title": "Quantifying Uncertainty in Anisotropic Polymer Blends",
+    "authors": [
+      "Fenna Gorecki",
+      "Devraj Jovanovic",
+      "Rosalind Yarborough",
+      "Mathis Halvorsen",
+      "Devraj Gorecki"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.01",
+    "publishedAt": "2023-03-27T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "sensitivity analysis",
+      "benchmarking",
+      "field trial"
+    ],
+    "abstract": "We examine the behaviour of crystalline coatings in corrosive media. Neither of the alternative formulations improved on the simple additive model in our setting. The measurements reported here were collected over twelve independent trials under controlled conditions. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-12-1-01.pdf",
+    "fileSize": 9357
+  },
+  {
+    "id": "mjas-12-1-03",
+    "title": "Toward Ductile Lattice Alloys: Evidence from Vacuum Conditions",
+    "authors": [
+      "Dilnoza Ibsen",
+      "Tamsin Thibodeaux",
+      "Lucia Jovanovic"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.03",
+    "publishedAt": "2023-03-19T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "spectral analysis",
+      "cohort design",
+      "ablation study",
+      "finite elements"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 10,
+    "pageCount": 3,
+    "pageRange": "10-12",
+    "fileName": "mjas-12-1-03.pdf",
+    "fileSize": 7936
+  },
+  {
+    "id": "mjas-12-1-05",
+    "title": "A Comparative Study of Microfluidic Biomarker Panels",
+    "authors": [
+      "Nadia Bhattacharya",
+      "Valeria Brandvold",
+      "Caius Lindqvist"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.05",
+    "publishedAt": "2023-03-11T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "cost accounting",
+      "ablation study",
+      "calibration",
+      "sensitivity analysis"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Longer observation windows narrow the confidence interval but do not shift the central estimate. Taken together, these findings argue for treating the two regimes separately in future analyses. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-12-1-05.pdf",
+    "fileSize": 8527
+  },
+  {
+    "id": "mjas-12-1-04",
+    "title": "Revisiting Perfusion Assays under Immunomodulatory Constraints",
+    "authors": [
+      "Xiulan Ueckermann",
+      "Fenna Aalto"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.04",
+    "publishedAt": "2023-03-11T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "field trial",
+      "surrogate modelling",
+      "benchmarking",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of longitudinal drug carriers. Taken together, these findings argue for treating the two regimes separately in future analyses. Sensitivity to the smoothing window proved modest across the range we examined. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 13,
+    "pageCount": 3,
+    "pageRange": "13-15",
+    "fileName": "mjas-12-1-04.pdf",
+    "fileSize": 6992
+  },
+  {
+    "id": "mjas-12-1-02",
+    "title": "Quantifying Uncertainty in Downscaled Canopy Reflectance",
+    "authors": [
+      "Ulrich Cisneros",
+      "Nadia Thibodeaux"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.02",
+    "publishedAt": "2023-03-09T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "ablation study",
+      "finite elements",
+      "cross-validation",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of long-term runoff models. Replicate agreement was high, suggesting the protocol is robust to small handling differences. We release the processing scripts and intermediate artefacts to support independent verification. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 5,
+    "pageCount": 5,
+    "pageRange": "5-9",
+    "fileName": "mjas-12-1-02.pdf",
+    "fileSize": 11616
+  },
+  {
+    "id": "mjas-12-1-06",
+    "title": "Gait Signatures Revisited: A Longitudinal Perspective",
+    "authors": [
+      "Mathis Cisneros",
+      "Nadia Oyelaran",
+      "Xiulan Ueckermann",
+      "Xiulan Nakashima",
+      "Quentin Yarborough"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 12,
+    "issue": 1,
+    "doi": "10.5281/mjas.12.1.06",
+    "publishedAt": "2023-03-08T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "cohort design",
+      "benchmarking"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 20,
+    "pageCount": 5,
+    "pageRange": "20-24",
+    "fileName": "mjas-12-1-06.pdf",
+    "fileSize": 11542
+  },
+  {
+    "id": "mjas-11-4-02",
+    "title": "Quantifying Uncertainty in Satellite-Derived Runoff Models",
+    "authors": [
+      "Mathis Bhattacharya"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.02",
+    "publishedAt": "2022-12-23T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "calibration",
+      "cross-validation",
+      "noise robustness",
+      "ablation study"
+    ],
+    "abstract": "This paper reports a systematic evaluation of long-term estuarine salinity. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The measurements reported here were collected over twelve independent trials under controlled conditions. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 5,
+    "pageCount": 4,
+    "pageRange": "5-8",
+    "fileName": "mjas-11-4-02.pdf",
+    "fileSize": 9268
+  },
+  {
+    "id": "mjas-11-4-06",
+    "title": "Characterizing Gait Signatures in Resource-Limited Clinics",
+    "authors": [
+      "Oleksandr Rasmussen",
+      "Alina Castellanos",
+      "Alina Halvorsen",
+      "Devraj Halvorsen",
+      "Devraj Zielinski"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.06",
+    "publishedAt": "2022-12-22T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "scaling laws",
+      "surrogate modelling"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in chronic wound care. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 22,
+    "pageCount": 3,
+    "pageRange": "22-24",
+    "fileName": "mjas-11-4-06.pdf",
+    "fileSize": 7771
+  },
+  {
+    "id": "mjas-11-4-03",
+    "title": "Characterizing Perfusion Assays in Neonatal Monitoring",
+    "authors": [
+      "Eero Fontenot",
+      "Nadia Vasquez",
+      "Hyun-woo Eyre"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.03",
+    "publishedAt": "2022-12-22T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "ablation study",
+      "finite elements",
+      "field trial"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Residual error grows approximately linearly with the number of coupled parameters. We release the processing scripts and intermediate artefacts to support independent verification. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 9,
+    "pageCount": 5,
+    "pageRange": "9-13",
+    "fileName": "mjas-11-4-03.pdf",
+    "fileSize": 12608
+  },
+  {
+    "id": "mjas-11-4-01",
+    "title": "Crystalline Coatings Revisited: A Self-Healing Perspective",
+    "authors": [
+      "Jarrah Xanthos",
+      "Anders Ibsen"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.01",
+    "publishedAt": "2022-12-06T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "cohort design",
+      "spectral analysis",
+      "error propagation",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of crystalline coatings in additive manufacturing. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Longer observation windows narrow the confidence interval but do not shift the central estimate. Replicate agreement was high, suggesting the protocol is robust to small handling differences.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-11-4-01.pdf",
+    "fileSize": 9900
+  },
+  {
+    "id": "mjas-11-4-04",
+    "title": "Characterizing Query Planners in Heterogeneous Clusters",
+    "authors": [
+      "Beatriz Jovanovic",
+      "Bastian Kowalczyk",
+      "Caius Yarborough",
+      "Hyun-woo Strand",
+      "Lucia Lindqvist"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.04",
+    "publishedAt": "2022-12-02T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "surrogate modelling",
+      "error propagation",
+      "cost accounting",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of streaming joins in edge deployments. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. We release the processing scripts and intermediate artefacts to support independent verification. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 14,
+    "pageCount": 4,
+    "pageRange": "14-17",
+    "fileName": "mjas-11-4-04.pdf",
+    "fileSize": 9116
+  },
+  {
+    "id": "mjas-11-4-05",
+    "title": "Longitudinal Electrode Arrays for Chronic Wound Care",
+    "authors": [
+      "Rosalind Ueckermann",
+      "Lucia Kowalczyk",
+      "Hyun-woo Drummond",
+      "Cordelia Vasquez"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 4,
+    "doi": "10.5281/mjas.11.4.05",
+    "publishedAt": "2022-12-01T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "cohort design",
+      "cost accounting",
+      "surrogate modelling"
+    ],
+    "abstract": "We examine the behaviour of perfusion assays in neonatal monitoring. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Residual error grows approximately linearly with the number of coupled parameters. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 18,
+    "pageCount": 4,
+    "pageRange": "18-21",
+    "fileName": "mjas-11-4-05.pdf",
+    "fileSize": 10005
+  },
+  {
+    "id": "mjas-11-3-05",
+    "title": "Patient-Specific Organoid Cultures for Ambulatory Trials",
+    "authors": [
+      "Dilnoza Halvorsen",
+      "Alina Kowalczyk",
+      "Ulrich Oyelaran",
+      "Faisal Cisneros",
+      "Quentin Nakashima"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.05",
+    "publishedAt": "2022-09-22T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "sensitivity analysis",
+      "reproducibility",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in preclinical cohorts. The measurements reported here were collected over twelve independent trials under controlled conditions. We release the processing scripts and intermediate artefacts to support independent verification. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 16,
+    "pageCount": 3,
+    "pageRange": "16-18",
+    "fileName": "mjas-11-3-05.pdf",
+    "fileSize": 7984
+  },
+  {
+    "id": "mjas-11-3-06",
+    "title": "A Comparative Study of Basin-Scale Methane Fluxes",
+    "authors": [
+      "Cordelia Cisneros"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.06",
+    "publishedAt": "2022-09-10T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "noise robustness",
+      "finite elements"
+    ],
+    "abstract": "This paper reports a systematic evaluation of long-term canopy reflectance. The measurements reported here were collected over twelve independent trials under controlled conditions. Residual error grows approximately linearly with the number of coupled parameters. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-11-3-06.pdf",
+    "fileSize": 9190
+  },
+  {
+    "id": "mjas-11-3-03",
+    "title": "On the Stability of Sediment-Linked Groundwater Recharge",
+    "authors": [
+      "Tamsin Dusseault"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.03",
+    "publishedAt": "2022-09-04T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "calibration",
+      "error propagation",
+      "reproducibility"
+    ],
+    "abstract": "This paper reports a systematic evaluation of seasonal soil carbon pools. We release the processing scripts and intermediate artefacts to support independent verification. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 9,
+    "pageCount": 4,
+    "pageRange": "9-12",
+    "fileName": "mjas-11-3-03.pdf",
+    "fileSize": 10023
+  },
+  {
+    "id": "mjas-11-3-04",
+    "title": "Toward Sparse Workload Forecasts: Evidence from Heterogeneous Clusters",
+    "authors": [
+      "Cordelia Thibodeaux",
+      "Greta Zielinski",
+      "Dilnoza Abernathy"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.04",
+    "publishedAt": "2022-09-02T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "scaling laws",
+      "sensitivity analysis",
+      "reproducibility",
+      "cost accounting"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Taken together, these findings argue for treating the two regimes separately in future analyses. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 13,
+    "pageCount": 3,
+    "pageRange": "13-15",
+    "fileName": "mjas-11-3-04.pdf",
+    "fileSize": 7394
+  },
+  {
+    "id": "mjas-11-3-02",
+    "title": "Methane Fluxes Revisited: A Coupled Perspective",
+    "authors": [
+      "Wren Rasmussen",
+      "Xiulan Ueckermann",
+      "Eero Jovanovic",
+      "Jarrah Rasmussen",
+      "Fenna Marchetti"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.02",
+    "publishedAt": "2022-09-02T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "noise robustness",
+      "cross-validation",
+      "parameter sweep",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of drought-sensitive methane fluxes. We release the processing scripts and intermediate artefacts to support independent verification. The reduced model retains most of the explanatory power at a fraction of the computational cost. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 4,
+    "pageCount": 5,
+    "pageRange": "4-8",
+    "fileName": "mjas-11-3-02.pdf",
+    "fileSize": 12115
+  },
+  {
+    "id": "mjas-11-3-01",
+    "title": "A Comparative Study of Microfluidic Drug Carriers",
+    "authors": [
+      "Faisal Gorecki",
+      "Anders Halvorsen",
+      "Xiulan Jovanovic",
+      "Kenji Xanthos"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 3,
+    "doi": "10.5281/mjas.11.3.01",
+    "publishedAt": "2022-09-01T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "error propagation",
+      "cohort design",
+      "cross-validation",
+      "finite elements"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-11-3-01.pdf",
+    "fileSize": 7899
+  },
+  {
+    "id": "mjas-11-2-02",
+    "title": "Revisiting Biomarker Panels under Wearable Constraints",
+    "authors": [
+      "Priya Drummond",
+      "Devraj Xanthos",
+      "Mathis Strand",
+      "Imogen Oyelaran",
+      "Valeria Eyre"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.02",
+    "publishedAt": "2022-06-25T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "scaling laws",
+      "cohort design"
+    ],
+    "abstract": "This paper reports a systematic evaluation of patient-specific electrode arrays. Longer observation windows narrow the confidence interval but do not shift the central estimate. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 7,
+    "pageCount": 6,
+    "pageRange": "7-12",
+    "fileName": "mjas-11-2-02.pdf",
+    "fileSize": 14554
+  },
+  {
+    "id": "mjas-11-2-04",
+    "title": "Toward Hierarchical Index Structures: Evidence from Append-Only Stores",
+    "authors": [
+      "Imogen Xanthos",
+      "Alina Kowalczyk",
+      "Fenna Strand"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.04",
+    "publishedAt": "2022-06-24T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "parameter sweep",
+      "calibration",
+      "reproducibility",
+      "error propagation"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. Taken together, these findings argue for treating the two regimes separately in future analyses. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-11-2-04.pdf",
+    "fileSize": 8112
+  },
+  {
+    "id": "mjas-11-2-06",
+    "title": "Quantifying Uncertainty in Porous Grain Boundaries",
+    "authors": [
+      "Eero Yarborough",
+      "Jarrah Rasmussen",
+      "Xiulan Castellanos",
+      "Sten Quiroga",
+      "Imogen Kowalczyk"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.06",
+    "publishedAt": "2022-06-20T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "parameter sweep",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of polymer blends in cryogenic service. The measurements reported here were collected over twelve independent trials under controlled conditions. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 27,
+    "pageCount": 5,
+    "pageRange": "27-31",
+    "fileName": "mjas-11-2-06.pdf",
+    "fileSize": 11335
+  },
+  {
+    "id": "mjas-11-2-03",
+    "title": "On the Stability of Satellite-Derived Methane Fluxes",
+    "authors": [
+      "Faisal Castellanos",
+      "Zofia Aalto",
+      "Lucia Eyre",
+      "Devraj Whitlock"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.03",
+    "publishedAt": "2022-06-15T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "ablation study",
+      "scaling laws"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. The measurements reported here were collected over twelve independent trials under controlled conditions. Calibration drift over the trial period remained below the threshold set out in the protocol. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 13,
+    "pageCount": 6,
+    "pageRange": "13-18",
+    "fileName": "mjas-11-2-03.pdf",
+    "fileSize": 13841
+  },
+  {
+    "id": "mjas-11-2-01",
+    "title": "A Comparative Study of Satellite-Derived Aerosol Budgets",
+    "authors": [
+      "Wren Pendergast",
+      "Fenna Lindqvist"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.01",
+    "publishedAt": "2022-06-10T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "reproducibility",
+      "scaling laws",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of snowpack persistence in coastal wetlands. The measurements reported here were collected over twelve independent trials under controlled conditions. Neither of the alternative formulations improved on the simple additive model in our setting. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 1,
+    "pageCount": 6,
+    "pageRange": "1-6",
+    "fileName": "mjas-11-2-01.pdf",
+    "fileSize": 13911
+  },
+  {
+    "id": "mjas-11-2-05",
+    "title": "Sediment-Linked Aerosol Budgets for Semi-Arid Rangelands",
+    "authors": [
+      "Cordelia Ibsen"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 2,
+    "doi": "10.5281/mjas.11.2.05",
+    "publishedAt": "2022-06-01T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "reproducibility",
+      "cost accounting"
+    ],
+    "abstract": "We examine the behaviour of runoff models in urban heat islands. We release the processing scripts and intermediate artefacts to support independent verification. Calibration drift over the trial period remained below the threshold set out in the protocol. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 23,
+    "pageCount": 4,
+    "pageRange": "23-26",
+    "fileName": "mjas-11-2-05.pdf",
+    "fileSize": 8934
+  },
+  {
+    "id": "mjas-11-1-05",
+    "title": "Toward Satellite-Derived Runoff Models: Evidence from Urban Heat Islands",
+    "authors": [
+      "Priya Vasquez",
+      "Lucia Kowalczyk",
+      "Rosalind Ibsen"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.05",
+    "publishedAt": "2022-03-11T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "reproducibility",
+      "calibration",
+      "sensitivity analysis",
+      "scaling laws"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. The measurements reported here were collected over twelve independent trials under controlled conditions. Neither of the alternative formulations improved on the simple additive model in our setting. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-11-1-05.pdf",
+    "fileSize": 9446
+  },
+  {
+    "id": "mjas-11-1-01",
+    "title": "Gait Signatures Revisited: A Wearable Perspective",
+    "authors": [
+      "Eero Rasmussen",
+      "Devraj Aalto"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.01",
+    "publishedAt": "2022-03-11T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "calibration",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in ambulatory trials. Calibration drift over the trial period remained below the threshold set out in the protocol. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-11-1-01.pdf",
+    "fileSize": 11388
+  },
+  {
+    "id": "mjas-11-1-06",
+    "title": "Quantifying Uncertainty in Basin-Scale Estuarine Salinity",
+    "authors": [
+      "Greta Strand",
+      "Priya Abernathy"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.06",
+    "publishedAt": "2022-03-10T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "reproducibility",
+      "ablation study",
+      "cohort design"
+    ],
+    "abstract": "We examine the behaviour of groundwater recharge in urban heat islands. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 20,
+    "pageCount": 6,
+    "pageRange": "20-25",
+    "fileName": "mjas-11-1-06.pdf",
+    "fileSize": 13881
+  },
+  {
+    "id": "mjas-11-1-02",
+    "title": "A Comparative Study of Immunomodulatory Imaging Pipelines",
+    "authors": [
+      "Nadia Xanthos",
+      "Bastian Ibsen"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.02",
+    "publishedAt": "2022-03-08T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "ablation study",
+      "error propagation",
+      "cross-validation",
+      "finite elements"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in point-of-care settings. Calibration drift over the trial period remained below the threshold set out in the protocol. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 6,
+    "pageCount": 4,
+    "pageRange": "6-9",
+    "fileName": "mjas-11-1-02.pdf",
+    "fileSize": 9566
+  },
+  {
+    "id": "mjas-11-1-03",
+    "title": "Toward Sparse Workload Forecasts: Evidence from Edge Deployments",
+    "authors": [
+      "Valeria Fontenot",
+      "Nadia Drummond",
+      "Yusuf Nakashima"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.03",
+    "publishedAt": "2022-03-05T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "error propagation",
+      "cohort design",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of sparse consensus protocols. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 10,
+    "pageCount": 3,
+    "pageRange": "10-12",
+    "fileName": "mjas-11-1-03.pdf",
+    "fileSize": 7425
+  },
+  {
+    "id": "mjas-11-1-04",
+    "title": "Revisiting Tissue Phantoms under Wearable Constraints",
+    "authors": [
+      "Imogen Zielinski",
+      "Devraj Rasmussen",
+      "Valeria Ueckermann"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 11,
+    "issue": 1,
+    "doi": "10.5281/mjas.11.1.04",
+    "publishedAt": "2022-03-02T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "finite elements",
+      "ablation study"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in ambulatory trials. Sensitivity to the smoothing window proved modest across the range we examined. We release the processing scripts and intermediate artefacts to support independent verification. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 13,
+    "pageCount": 3,
+    "pageRange": "13-15",
+    "fileName": "mjas-11-1-04.pdf",
+    "fileSize": 7612
+  },
+  {
+    "id": "mjas-10-4-06",
+    "title": "Quantifying Uncertainty in Drought-Sensitive Soil Carbon Pools",
+    "authors": [
+      "Yusuf Castellanos"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.06",
+    "publishedAt": "2021-12-22T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "finite elements",
+      "cost accounting",
+      "ablation study"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 24,
+    "pageCount": 4,
+    "pageRange": "24-27",
+    "fileName": "mjas-10-4-06.pdf",
+    "fileSize": 9118
+  },
+  {
+    "id": "mjas-10-4-04",
+    "title": "Toward Seasonal Aerosol Budgets: Evidence from Coastal Wetlands",
+    "authors": [
+      "Kenji Vasquez",
+      "Bastian Halvorsen"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.04",
+    "publishedAt": "2021-12-08T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "sensitivity analysis",
+      "scaling laws"
+    ],
+    "abstract": "This paper reports a systematic evaluation of seasonal estuarine salinity. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 15,
+    "pageCount": 4,
+    "pageRange": "15-18",
+    "fileName": "mjas-10-4-04.pdf",
+    "fileSize": 8329
+  },
+  {
+    "id": "mjas-10-4-01",
+    "title": "Revisiting Groundwater Recharge under Coupled Constraints",
+    "authors": [
+      "Wren Pendergast"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.01",
+    "publishedAt": "2021-12-04T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "noise robustness",
+      "error propagation"
+    ],
+    "abstract": "We examine the behaviour of soil carbon pools in urban heat islands. Residual error grows approximately linearly with the number of coupled parameters. Longer observation windows narrow the confidence interval but do not shift the central estimate. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-10-4-01.pdf",
+    "fileSize": 9597
+  },
+  {
+    "id": "mjas-10-4-05",
+    "title": "Characterizing Aerogel Matrices in Cryogenic Service",
+    "authors": [
+      "Greta Eyre",
+      "Jarrah Lindqvist",
+      "Jarrah Zielinski",
+      "Zofia Aalto",
+      "Caius Ibsen"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.05",
+    "publishedAt": "2021-12-03T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "surrogate modelling",
+      "parameter sweep"
+    ],
+    "abstract": "This paper reports a systematic evaluation of anisotropic grain boundaries. Calibration drift over the trial period remained below the threshold set out in the protocol. We release the processing scripts and intermediate artefacts to support independent verification. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 19,
+    "pageCount": 5,
+    "pageRange": "19-23",
+    "fileName": "mjas-10-4-05.pdf",
+    "fileSize": 12072
+  },
+  {
+    "id": "mjas-10-4-03",
+    "title": "A Comparative Study of Immunomodulatory Biomarker Panels",
+    "authors": [
+      "Hyun-woo Lindqvist"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.03",
+    "publishedAt": "2021-12-02T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "surrogate modelling",
+      "reproducibility",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of wearable perfusion assays. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 9,
+    "pageCount": 6,
+    "pageRange": "9-14",
+    "fileName": "mjas-10-4-03.pdf",
+    "fileSize": 12795
+  },
+  {
+    "id": "mjas-10-4-02",
+    "title": "Toward Federated Query Planners: Evidence from Multi-Tenant Pipelines",
+    "authors": [
+      "Yusuf Halvorsen",
+      "Zofia Ibsen",
+      "Sten Abernathy",
+      "Quentin Fontenot"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 4,
+    "doi": "10.5281/mjas.10.4.02",
+    "publishedAt": "2021-12-01T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "noise robustness",
+      "parameter sweep"
+    ],
+    "abstract": "We examine the behaviour of graph embeddings in serverless runtimes. We release the processing scripts and intermediate artefacts to support independent verification. The reduced model retains most of the explanatory power at a fraction of the computational cost. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 5,
+    "pageCount": 4,
+    "pageRange": "5-8",
+    "fileName": "mjas-10-4-02.pdf",
+    "fileSize": 9308
+  },
+  {
+    "id": "mjas-10-3-06",
+    "title": "Quantifying Uncertainty in Satellite-Derived Aerosol Budgets",
+    "authors": [
+      "Xiulan Gorecki",
+      "Rosalind Lindqvist",
+      "Greta Halvorsen",
+      "Elke Zielinski",
+      "Ulrich Castellanos"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.06",
+    "publishedAt": "2021-09-26T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "scaling laws",
+      "cost accounting",
+      "noise robustness"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Residual error grows approximately linearly with the number of coupled parameters. Sensitivity to the smoothing window proved modest across the range we examined. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 18,
+    "pageCount": 3,
+    "pageRange": "18-20",
+    "fileName": "mjas-10-3-06.pdf",
+    "fileSize": 7769
+  },
+  {
+    "id": "mjas-10-3-03",
+    "title": "Quantifying Uncertainty in Differentiable Index Structures",
+    "authors": [
+      "Valeria Strand",
+      "Cordelia Rasmussen",
+      "Faisal Quiroga",
+      "Devraj Jovanovic"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.03",
+    "publishedAt": "2021-09-24T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "reproducibility",
+      "noise robustness",
+      "cross-validation",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of workload forecasts in heterogeneous clusters. The reduced model retains most of the explanatory power at a fraction of the computational cost. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 8,
+    "pageCount": 3,
+    "pageRange": "8-10",
+    "fileName": "mjas-10-3-03.pdf",
+    "fileSize": 7082
+  },
+  {
+    "id": "mjas-10-3-05",
+    "title": "Toward Coupled Methane Fluxes: Evidence from Boreal Peatlands",
+    "authors": [
+      "Zofia Fontenot",
+      "Greta Whitlock",
+      "Wren Lindqvist"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.05",
+    "publishedAt": "2021-09-23T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "error propagation",
+      "finite elements",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of runoff models in alpine catchments. Neither of the alternative formulations improved on the simple additive model in our setting. Replicate agreement was high, suggesting the protocol is robust to small handling differences. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 15,
+    "pageCount": 3,
+    "pageRange": "15-17",
+    "fileName": "mjas-10-3-05.pdf",
+    "fileSize": 7594
+  },
+  {
+    "id": "mjas-10-3-01",
+    "title": "Quantifying Uncertainty in Thermally Stable Grain Boundaries",
+    "authors": [
+      "Rosalind Halvorsen",
+      "Fenna Marchetti",
+      "Dilnoza Aalto"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.01",
+    "publishedAt": "2021-09-19T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "spectral analysis",
+      "noise robustness",
+      "ablation study",
+      "sensitivity analysis"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Longer observation windows narrow the confidence interval but do not shift the central estimate. Taken together, these findings argue for treating the two regimes separately in future analyses.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-10-3-01.pdf",
+    "fileSize": 9174
+  },
+  {
+    "id": "mjas-10-3-04",
+    "title": "On the Stability of Wearable Imaging Pipelines",
+    "authors": [
+      "Quentin Pendergast",
+      "Rosalind Gorecki",
+      "Imogen Gorecki"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.04",
+    "publishedAt": "2021-09-17T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "error propagation",
+      "surrogate modelling"
+    ],
+    "abstract": "We examine the behaviour of electrode arrays in preclinical cohorts. Calibration drift over the trial period remained below the threshold set out in the protocol. Longer observation windows narrow the confidence interval but do not shift the central estimate. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 11,
+    "pageCount": 4,
+    "pageRange": "11-14",
+    "fileName": "mjas-10-3-04.pdf",
+    "fileSize": 9885
+  },
+  {
+    "id": "mjas-10-3-02",
+    "title": "Characterizing Workload Forecasts in Append-Only Stores",
+    "authors": [
+      "Alina Vasquez",
+      "Jarrah Fontenot",
+      "Oleksandr Oyelaran",
+      "Fenna Cisneros",
+      "Faisal Yarborough"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 3,
+    "doi": "10.5281/mjas.10.3.02",
+    "publishedAt": "2021-09-06T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "noise robustness",
+      "cost accounting"
+    ],
+    "abstract": "This paper reports a systematic evaluation of distributed query planners. Residual error grows approximately linearly with the number of coupled parameters. The reduced model retains most of the explanatory power at a fraction of the computational cost. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 5,
+    "pageCount": 3,
+    "pageRange": "5-7",
+    "fileName": "mjas-10-3-02.pdf",
+    "fileSize": 7147
+  },
+  {
+    "id": "mjas-10-2-06",
+    "title": "A Comparative Study of Dose-Adaptive Perfusion Assays",
+    "authors": [
+      "Zofia Whitlock",
+      "Eero Rasmussen",
+      "Imogen Ibsen",
+      "Bastian Ueckermann",
+      "Lucia Ibsen"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.06",
+    "publishedAt": "2021-06-21T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "spectral analysis",
+      "parameter sweep",
+      "cohort design",
+      "ablation study"
+    ],
+    "abstract": "We examine the behaviour of gait signatures in point-of-care settings. The reduced model retains most of the explanatory power at a fraction of the computational cost. The measurements reported here were collected over twelve independent trials under controlled conditions. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 25,
+    "pageCount": 7,
+    "pageRange": "25-31",
+    "fileName": "mjas-10-2-06.pdf",
+    "fileSize": 15560
+  },
+  {
+    "id": "mjas-10-2-02",
+    "title": "Differentiable Query Planners for Multi-Tenant Pipelines",
+    "authors": [
+      "Nadia Fontenot",
+      "Dilnoza Xanthos",
+      "Rosalind Xanthos"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.02",
+    "publishedAt": "2021-06-18T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "cross-validation",
+      "scaling laws",
+      "parameter sweep"
+    ],
+    "abstract": "We examine the behaviour of cache hierarchies in serverless runtimes. Sensitivity to the smoothing window proved modest across the range we examined. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 7,
+    "pageCount": 4,
+    "pageRange": "7-10",
+    "fileName": "mjas-10-2-02.pdf",
+    "fileSize": 9784
+  },
+  {
+    "id": "mjas-10-2-03",
+    "title": "Toward Distributed Cache Hierarchies: Evidence from Edge Deployments",
+    "authors": [
+      "Nadia Thibodeaux",
+      "Greta Ibsen"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.03",
+    "publishedAt": "2021-06-17T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "calibration",
+      "ablation study",
+      "field trial",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of cache hierarchies in heterogeneous clusters. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Calibration drift over the trial period remained below the threshold set out in the protocol. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 11,
+    "pageCount": 5,
+    "pageRange": "11-15",
+    "fileName": "mjas-10-2-03.pdf",
+    "fileSize": 12306
+  },
+  {
+    "id": "mjas-10-2-01",
+    "title": "Electrode Arrays Revisited: A Minimally Invasive Perspective",
+    "authors": [
+      "Imogen Aalto",
+      "Alina Gorecki",
+      "Lucia Quiroga",
+      "Imogen Fontenot"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.01",
+    "publishedAt": "2021-06-17T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "benchmarking",
+      "reproducibility"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Calibration drift over the trial period remained below the threshold set out in the protocol. Neither of the alternative formulations improved on the simple additive model in our setting. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 1,
+    "pageCount": 6,
+    "pageRange": "1-6",
+    "fileName": "mjas-10-2-01.pdf",
+    "fileSize": 13161
+  },
+  {
+    "id": "mjas-10-2-05",
+    "title": "Characterizing Consensus Protocols in Heterogeneous Clusters",
+    "authors": [
+      "Imogen Halvorsen",
+      "Zofia Abernathy",
+      "Tamsin Pendergast",
+      "Valeria Bhattacharya",
+      "Sten Drummond"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.05",
+    "publishedAt": "2021-06-11T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "scaling laws",
+      "ablation study",
+      "field trial"
+    ],
+    "abstract": "This paper reports a systematic evaluation of distributed cache hierarchies. The measurements reported here were collected over twelve independent trials under controlled conditions. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 20,
+    "pageCount": 5,
+    "pageRange": "20-24",
+    "fileName": "mjas-10-2-05.pdf",
+    "fileSize": 12263
+  },
+  {
+    "id": "mjas-10-2-04",
+    "title": "Toward Anisotropic Fiber Scaffolds: Evidence from Additive Manufacturing",
+    "authors": [
+      "Jarrah Rasmussen",
+      "Imogen Oyelaran"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 2,
+    "doi": "10.5281/mjas.10.2.04",
+    "publishedAt": "2021-06-09T00:00:00.000Z",
+    "keywords": [
+      "spectral analysis",
+      "ablation study",
+      "cohort design"
+    ],
+    "abstract": "We examine the behaviour of thin films in additive manufacturing. We release the processing scripts and intermediate artefacts to support independent verification. The reduced model retains most of the explanatory power at a fraction of the computational cost. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-10-2-04.pdf",
+    "fileSize": 9219
+  },
+  {
+    "id": "mjas-10-1-02",
+    "title": "Crystalline Coatings Revisited: A Layered Perspective",
+    "authors": [
+      "Eero Nakashima",
+      "Priya Rasmussen",
+      "Nadia Lindqvist",
+      "Ulrich Bhattacharya"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.02",
+    "publishedAt": "2021-03-27T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "cohort design",
+      "ablation study",
+      "calibration"
+    ],
+    "abstract": "We examine the behaviour of aerogel matrices in marine environments. We release the processing scripts and intermediate artefacts to support independent verification. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 4,
+    "pageCount": 6,
+    "pageRange": "4-9",
+    "fileName": "mjas-10-1-02.pdf",
+    "fileSize": 13273
+  },
+  {
+    "id": "mjas-10-1-04",
+    "title": "Revisiting Ceramic Composites under Anisotropic Constraints",
+    "authors": [
+      "Caius Aalto",
+      "Alina Gorecki",
+      "Hyun-woo Pendergast",
+      "Eero Yarborough",
+      "Wren Vasquez"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.04",
+    "publishedAt": "2021-03-23T00:00:00.000Z",
+    "keywords": [
+      "sensitivity analysis",
+      "cost accounting",
+      "spectral analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of porous thin films. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Taken together, these findings argue for treating the two regimes separately in future analyses. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-10-1-04.pdf",
+    "fileSize": 10063
+  },
+  {
+    "id": "mjas-10-1-03",
+    "title": "Longitudinal Drug Carriers for Chronic Wound Care",
+    "authors": [
+      "Hyun-woo Lindqvist",
+      "Quentin Lindqvist"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.03",
+    "publishedAt": "2021-03-12T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "cost accounting",
+      "surrogate modelling",
+      "parameter sweep",
+      "cross-validation"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Sensitivity to the smoothing window proved modest across the range we examined. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity.",
+    "firstPage": 10,
+    "pageCount": 6,
+    "pageRange": "10-15",
+    "fileName": "mjas-10-1-03.pdf",
+    "fileSize": 14236
+  },
+  {
+    "id": "mjas-10-1-05",
+    "title": "Characterizing Aerogel Matrices in Additive Manufacturing",
+    "authors": [
+      "Xiulan Pendergast",
+      "Zofia Strand",
+      "Oleksandr Bhattacharya"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.05",
+    "publishedAt": "2021-03-11T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "cost accounting",
+      "parameter sweep",
+      "scaling laws",
+      "error propagation"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. We release the processing scripts and intermediate artefacts to support independent verification. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 20,
+    "pageCount": 6,
+    "pageRange": "20-25",
+    "fileName": "mjas-10-1-05.pdf",
+    "fileSize": 14349
+  },
+  {
+    "id": "mjas-10-1-06",
+    "title": "Characterizing Consensus Protocols in Heterogeneous Clusters",
+    "authors": [
+      "Yusuf Pendergast",
+      "Imogen Whitlock",
+      "Hyun-woo Fontenot"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.06",
+    "publishedAt": "2021-03-04T00:00:00.000Z",
+    "keywords": [
+      "reproducibility",
+      "field trial",
+      "scaling laws",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of cache hierarchies in serverless runtimes. Longer observation windows narrow the confidence interval but do not shift the central estimate. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 26,
+    "pageCount": 5,
+    "pageRange": "26-30",
+    "fileName": "mjas-10-1-06.pdf",
+    "fileSize": 12112
+  },
+  {
+    "id": "mjas-10-1-01",
+    "title": "Quantifying Uncertainty in Dose-Adaptive Tissue Phantoms",
+    "authors": [
+      "Hyun-woo Kowalczyk",
+      "Ulrich Halvorsen"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 10,
+    "issue": 1,
+    "doi": "10.5281/mjas.10.1.01",
+    "publishedAt": "2021-03-02T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "calibration",
+      "ablation study",
+      "noise robustness",
+      "sensitivity analysis"
+    ],
+    "abstract": "This paper reports a systematic evaluation of label-free electrode arrays. We release the processing scripts and intermediate artefacts to support independent verification. Taken together, these findings argue for treating the two regimes separately in future analyses. Replicate agreement was high, suggesting the protocol is robust to small handling differences.",
+    "firstPage": 1,
+    "pageCount": 3,
+    "pageRange": "1-3",
+    "fileName": "mjas-10-1-01.pdf",
+    "fileSize": 7913
+  },
+  {
+    "id": "mjas-9-4-03",
+    "title": "Characterizing Grain Boundaries in Vacuum Conditions",
+    "authors": [
+      "Beatriz Castellanos",
+      "Caius Strand"
+    ],
+    "affiliation": "Lakeshore Research Centre",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.03",
+    "publishedAt": "2020-12-27T00:00:00.000Z",
+    "keywords": [
+      "surrogate modelling",
+      "calibration",
+      "cost accounting"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. Taken together, these findings argue for treating the two regimes separately in future analyses. The measurements reported here were collected over twelve independent trials under controlled conditions. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 11,
+    "pageCount": 5,
+    "pageRange": "11-15",
+    "fileName": "mjas-9-4-03.pdf",
+    "fileSize": 11335
+  },
+  {
+    "id": "mjas-9-4-01",
+    "title": "Characterizing Index Structures in Multi-Tenant Pipelines",
+    "authors": [
+      "Kenji Marchetti",
+      "Priya Gorecki",
+      "Caius Oyelaran",
+      "Cordelia Thibodeaux"
+    ],
+    "affiliation": "Sableport Marine Laboratory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.01",
+    "publishedAt": "2020-12-19T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "cohort design",
+      "cost accounting"
+    ],
+    "abstract": "We examine the behaviour of index structures in edge deployments. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 1,
+    "pageCount": 6,
+    "pageRange": "1-6",
+    "fileName": "mjas-9-4-01.pdf",
+    "fileSize": 13887
+  },
+  {
+    "id": "mjas-9-4-06",
+    "title": "Dose-Adaptive Biomarker Panels for Point-of-Care Settings",
+    "authors": [
+      "Dilnoza Ueckermann"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.06",
+    "publishedAt": "2020-12-17T00:00:00.000Z",
+    "keywords": [
+      "cohort design",
+      "scaling laws",
+      "cross-validation"
+    ],
+    "abstract": "This paper reports a systematic evaluation of microfluidic gait signatures. Sensitivity to the smoothing window proved modest across the range we examined. The measurements reported here were collected over twelve independent trials under controlled conditions. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 24,
+    "pageCount": 3,
+    "pageRange": "24-26",
+    "fileName": "mjas-9-4-06.pdf",
+    "fileSize": 7809
+  },
+  {
+    "id": "mjas-9-4-05",
+    "title": "Quantifying Uncertainty in Photoactive Ceramic Composites",
+    "authors": [
+      "Elke Castellanos",
+      "Anders Castellanos",
+      "Cordelia Halvorsen"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.05",
+    "publishedAt": "2020-12-17T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "noise robustness",
+      "cross-validation",
+      "error propagation"
+    ],
+    "abstract": "This paper reports a systematic evaluation of layered crystalline coatings. The measurements reported here were collected over twelve independent trials under controlled conditions. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 20,
+    "pageCount": 4,
+    "pageRange": "20-23",
+    "fileName": "mjas-9-4-05.pdf",
+    "fileSize": 9948
+  },
+  {
+    "id": "mjas-9-4-04",
+    "title": "On the Stability of Basin-Scale Estuarine Salinity",
+    "authors": [
+      "Anders Whitlock",
+      "Alina Ueckermann",
+      "Xiulan Eyre",
+      "Oleksandr Eyre",
+      "Oleksandr Pendergast"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.04",
+    "publishedAt": "2020-12-15T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "spectral analysis",
+      "noise robustness"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Neither of the alternative formulations improved on the simple additive model in our setting. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 16,
+    "pageCount": 4,
+    "pageRange": "16-19",
+    "fileName": "mjas-9-4-04.pdf",
+    "fileSize": 9378
+  },
+  {
+    "id": "mjas-9-4-02",
+    "title": "Gait Signatures Revisited: A Dose-Adaptive Perspective",
+    "authors": [
+      "Oleksandr Rasmussen",
+      "Caius Lindqvist",
+      "Caius Nakashima",
+      "Faisal Zielinski",
+      "Faisal Aalto"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 4,
+    "doi": "10.5281/mjas.9.4.02",
+    "publishedAt": "2020-12-13T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "finite elements",
+      "error propagation",
+      "cost accounting",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of dose-adaptive electrode arrays. Residual error grows approximately linearly with the number of coupled parameters. Replicate agreement was high, suggesting the protocol is robust to small handling differences. The reduced model retains most of the explanatory power at a fraction of the computational cost.",
+    "firstPage": 7,
+    "pageCount": 4,
+    "pageRange": "7-10",
+    "fileName": "mjas-9-4-02.pdf",
+    "fileSize": 9696
+  },
+  {
+    "id": "mjas-9-3-03",
+    "title": "On the Stability of Adaptive Query Planners",
+    "authors": [
+      "Devraj Brandvold",
+      "Mathis Kowalczyk",
+      "Rosalind Thibodeaux",
+      "Ulrich Abernathy",
+      "Eero Quiroga"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.03",
+    "publishedAt": "2020-09-28T00:00:00.000Z",
+    "keywords": [
+      "ablation study",
+      "cost accounting",
+      "parameter sweep",
+      "noise robustness",
+      "field trial"
+    ],
+    "abstract": "We examine the behaviour of workload forecasts in serverless runtimes. Discrepancies at the boundary are consistent with the simplifying assumptions noted above. The reduced model retains most of the explanatory power at a fraction of the computational cost. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance.",
+    "firstPage": 9,
+    "pageCount": 5,
+    "pageRange": "9-13",
+    "fileName": "mjas-9-3-03.pdf",
+    "fileSize": 12084
+  },
+  {
+    "id": "mjas-9-3-05",
+    "title": "Streaming Joins Revisited: A Differentiable Perspective",
+    "authors": [
+      "Kenji Pendergast",
+      "Kenji Fontenot",
+      "Faisal Lindqvist",
+      "Caius Quiroga"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.05",
+    "publishedAt": "2020-09-25T00:00:00.000Z",
+    "keywords": [
+      "field trial",
+      "scaling laws",
+      "sensitivity analysis"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. Taken together, these findings argue for treating the two regimes separately in future analyses. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 19,
+    "pageCount": 4,
+    "pageRange": "19-22",
+    "fileName": "mjas-9-3-05.pdf",
+    "fileSize": 8852
+  },
+  {
+    "id": "mjas-9-3-01",
+    "title": "Toward Drought-Sensitive Methane Fluxes: Evidence from Boreal Peatlands",
+    "authors": [
+      "Elke Marchetti",
+      "Cordelia Thibodeaux",
+      "Mathis Strand"
+    ],
+    "affiliation": "Northfield Polytechnic",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.01",
+    "publishedAt": "2020-09-20T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "cohort design",
+      "spectral analysis",
+      "sensitivity analysis"
+    ],
+    "abstract": "We examine the behaviour of estuarine salinity in coastal wetlands. Residual error grows approximately linearly with the number of coupled parameters. The reduced model retains most of the explanatory power at a fraction of the computational cost. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-9-3-01.pdf",
+    "fileSize": 12076
+  },
+  {
+    "id": "mjas-9-3-06",
+    "title": "Quantifying Uncertainty in Coupled Aerosol Budgets",
+    "authors": [
+      "Dilnoza Yarborough",
+      "Zofia Nakashima",
+      "Wren Lindqvist",
+      "Devraj Abernathy",
+      "Bastian Ueckermann"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.06",
+    "publishedAt": "2020-09-01T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "field trial",
+      "error propagation",
+      "scaling laws"
+    ],
+    "abstract": "We examine the behaviour of methane fluxes in temperate watersheds. The reduced model retains most of the explanatory power at a fraction of the computational cost. Longer observation windows narrow the confidence interval but do not shift the central estimate. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 23,
+    "pageCount": 4,
+    "pageRange": "23-26",
+    "fileName": "mjas-9-3-06.pdf",
+    "fileSize": 9719
+  },
+  {
+    "id": "mjas-9-3-04",
+    "title": "Quantifying Uncertainty in Differentiable Streaming Joins",
+    "authors": [
+      "Hyun-woo Kowalczyk",
+      "Jarrah Whitlock",
+      "Zofia Dusseault"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.04",
+    "publishedAt": "2020-09-01T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "cost accounting",
+      "calibration",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of graph embeddings in low-bandwidth links. Residual error grows approximately linearly with the number of coupled parameters. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 14,
+    "pageCount": 5,
+    "pageRange": "14-18",
+    "fileName": "mjas-9-3-04.pdf",
+    "fileSize": 12143
+  },
+  {
+    "id": "mjas-9-3-02",
+    "title": "Quantifying Uncertainty in Microfluidic Drug Carriers",
+    "authors": [
+      "Fenna Ibsen",
+      "Ulrich Ueckermann",
+      "Jarrah Brandvold",
+      "Devraj Cisneros",
+      "Lucia Halvorsen"
+    ],
+    "affiliation": "Institute for Applied Dynamics, Varnholt",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 3,
+    "doi": "10.5281/mjas.9.3.02",
+    "publishedAt": "2020-09-01T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "benchmarking",
+      "calibration"
+    ],
+    "abstract": "This paper reports a systematic evaluation of immunomodulatory electrode arrays. The reduced model retains most of the explanatory power at a fraction of the computational cost. We release the processing scripts and intermediate artefacts to support independent verification. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study.",
+    "firstPage": 6,
+    "pageCount": 3,
+    "pageRange": "6-8",
+    "fileName": "mjas-9-3-02.pdf",
+    "fileSize": 6494
+  },
+  {
+    "id": "mjas-9-2-04",
+    "title": "Ductile Lattice Alloys for Additive Manufacturing",
+    "authors": [
+      "Caius Bhattacharya"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.04",
+    "publishedAt": "2020-06-27T00:00:00.000Z",
+    "keywords": [
+      "parameter sweep",
+      "cost accounting",
+      "error propagation",
+      "scaling laws",
+      "ablation study"
+    ],
+    "abstract": "Work in materials research has long relied on assumptions we test directly here. Neither of the alternative formulations improved on the simple additive model in our setting. We release the processing scripts and intermediate artefacts to support independent verification. Replicate agreement was high, suggesting the protocol is robust to small handling differences.",
+    "firstPage": 16,
+    "pageCount": 5,
+    "pageRange": "16-20",
+    "fileName": "mjas-9-2-04.pdf",
+    "fileSize": 12242
+  },
+  {
+    "id": "mjas-9-2-01",
+    "title": "Revisiting Runoff Models under Long-Term Constraints",
+    "authors": [
+      "Jarrah Drummond",
+      "Devraj Quiroga"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.01",
+    "publishedAt": "2020-06-21T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "sensitivity analysis",
+      "scaling laws",
+      "surrogate modelling",
+      "ablation study"
+    ],
+    "abstract": "We examine the behaviour of aerosol budgets in coastal wetlands. Taken together, these findings argue for treating the two regimes separately in future analyses. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Sensitivity to the smoothing window proved modest across the range we examined.",
+    "firstPage": 1,
+    "pageCount": 5,
+    "pageRange": "1-5",
+    "fileName": "mjas-9-2-01.pdf",
+    "fileSize": 12318
+  },
+  {
+    "id": "mjas-9-2-06",
+    "title": "Characterizing Scheduling Heuristics in Low-Bandwidth Links",
+    "authors": [
+      "Tamsin Abernathy",
+      "Alina Kowalczyk",
+      "Wren Kowalczyk",
+      "Elke Jovanovic",
+      "Yusuf Kowalczyk"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.06",
+    "publishedAt": "2020-06-18T00:00:00.000Z",
+    "keywords": [
+      "error propagation",
+      "cost accounting",
+      "noise robustness",
+      "finite elements",
+      "benchmarking"
+    ],
+    "abstract": "This paper reports a systematic evaluation of sparse query planners. We observe a pronounced inflection once the load exceeds roughly sixty percent of nominal capacity. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 26,
+    "pageCount": 5,
+    "pageRange": "26-30",
+    "fileName": "mjas-9-2-06.pdf",
+    "fileSize": 12393
+  },
+  {
+    "id": "mjas-9-2-05",
+    "title": "Toward Seasonal Soil Carbon Pools: Evidence from Urban Heat Islands",
+    "authors": [
+      "Lucia Aalto",
+      "Yusuf Xanthos"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.05",
+    "publishedAt": "2020-06-18T00:00:00.000Z",
+    "keywords": [
+      "cross-validation",
+      "sensitivity analysis",
+      "benchmarking"
+    ],
+    "abstract": "We examine the behaviour of methane fluxes in semi-arid rangelands. A modest but repeatable bias appears in the lowest-magnitude bin and warrants further study. Residual error grows approximately linearly with the number of coupled parameters. Calibration drift over the trial period remained below the threshold set out in the protocol.",
+    "firstPage": 21,
+    "pageCount": 5,
+    "pageRange": "21-25",
+    "fileName": "mjas-9-2-05.pdf",
+    "fileSize": 11945
+  },
+  {
+    "id": "mjas-9-2-02",
+    "title": "Toward Longitudinal Gait Signatures: Evidence from Neonatal Monitoring",
+    "authors": [
+      "Anders Brandvold",
+      "Lucia Cisneros",
+      "Priya Jovanovic",
+      "Devraj Eyre",
+      "Rosalind Zielinski"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.02",
+    "publishedAt": "2020-06-09T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "cost accounting",
+      "finite elements",
+      "surrogate modelling",
+      "sensitivity analysis"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Sensitivity to the smoothing window proved modest across the range we examined. Discrepancies at the boundary are consistent with the simplifying assumptions noted above.",
+    "firstPage": 6,
+    "pageCount": 5,
+    "pageRange": "6-10",
+    "fileName": "mjas-9-2-02.pdf",
+    "fileSize": 12361
+  },
+  {
+    "id": "mjas-9-2-03",
+    "title": "Toward Coupled Runoff Models: Evidence from Semi-Arid Rangelands",
+    "authors": [
+      "Sten Dusseault",
+      "Ulrich Drummond",
+      "Elke Thibodeaux"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 2,
+    "doi": "10.5281/mjas.9.2.03",
+    "publishedAt": "2020-06-03T00:00:00.000Z",
+    "keywords": [
+      "noise robustness",
+      "reproducibility",
+      "benchmarking",
+      "spectral analysis",
+      "parameter sweep"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. We release the processing scripts and intermediate artefacts to support independent verification. The measurements reported here were collected over twelve independent trials under controlled conditions. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 11,
+    "pageCount": 5,
+    "pageRange": "11-15",
+    "fileName": "mjas-9-2-03.pdf",
+    "fileSize": 10872
+  },
+  {
+    "id": "mjas-9-1-01",
+    "title": "Crystalline Coatings Revisited: A Layered Perspective",
+    "authors": [
+      "Valeria Jovanovic",
+      "Alina Xanthos"
+    ],
+    "affiliation": "Calder Bay University",
+    "section": "Materials",
+    "sectionCode": "MAT",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.01",
+    "publishedAt": "2020-03-26T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "spectral analysis",
+      "noise robustness"
+    ],
+    "abstract": "We examine the behaviour of polymer blends in additive manufacturing. Replicate agreement was high, suggesting the protocol is robust to small handling differences. Taken together, these findings argue for treating the two regimes separately in future analyses. We release the processing scripts and intermediate artefacts to support independent verification.",
+    "firstPage": 1,
+    "pageCount": 4,
+    "pageRange": "1-4",
+    "fileName": "mjas-9-1-01.pdf",
+    "fileSize": 9660
+  },
+  {
+    "id": "mjas-9-1-04",
+    "title": "A Comparative Study of Downscaled Canopy Reflectance",
+    "authors": [
+      "Jarrah Strand",
+      "Wren Quiroga",
+      "Alina Jovanovic",
+      "Eero Ibsen",
+      "Fenna Drummond"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.04",
+    "publishedAt": "2020-03-18T00:00:00.000Z",
+    "keywords": [
+      "finite elements",
+      "parameter sweep",
+      "reproducibility",
+      "sensitivity analysis"
+    ],
+    "abstract": "We examine the behaviour of methane fluxes in alpine catchments. Calibration drift over the trial period remained below the threshold set out in the protocol. Sensitivity to the smoothing window proved modest across the range we examined. Residual error grows approximately linearly with the number of coupled parameters.",
+    "firstPage": 13,
+    "pageCount": 4,
+    "pageRange": "13-16",
+    "fileName": "mjas-9-1-04.pdf",
+    "fileSize": 9480
+  },
+  {
+    "id": "mjas-9-1-06",
+    "title": "On the Stability of Immunomodulatory Perfusion Assays",
+    "authors": [
+      "Oleksandr Thibodeaux",
+      "Fenna Zielinski"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.06",
+    "publishedAt": "2020-03-11T00:00:00.000Z",
+    "keywords": [
+      "calibration",
+      "cohort design",
+      "reproducibility"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. We release the processing scripts and intermediate artefacts to support independent verification. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 20,
+    "pageCount": 5,
+    "pageRange": "20-24",
+    "fileName": "mjas-9-1-06.pdf",
+    "fileSize": 11377
+  },
+  {
+    "id": "mjas-9-1-03",
+    "title": "Toward Coupled Groundwater Recharge: Evidence from Urban Heat Islands",
+    "authors": [
+      "Tamsin Nakashima",
+      "Elke Ueckermann",
+      "Faisal Aalto",
+      "Anders Castellanos",
+      "Wren Xanthos"
+    ],
+    "affiliation": "Thornwick College of Engineering",
+    "section": "Environmental",
+    "sectionCode": "ENV",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.03",
+    "publishedAt": "2020-03-10T00:00:00.000Z",
+    "keywords": [
+      "benchmarking",
+      "finite elements",
+      "field trial",
+      "cross-validation"
+    ],
+    "abstract": "Work in environmental research has long relied on assumptions we test directly here. Sensitivity to the smoothing window proved modest across the range we examined. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. The measurements reported here were collected over twelve independent trials under controlled conditions.",
+    "firstPage": 8,
+    "pageCount": 5,
+    "pageRange": "8-12",
+    "fileName": "mjas-9-1-03.pdf",
+    "fileSize": 12403
+  },
+  {
+    "id": "mjas-9-1-02",
+    "title": "Revisiting Scheduling Heuristics under Differentiable Constraints",
+    "authors": [
+      "Eero Lindqvist",
+      "Hyun-woo Brandvold",
+      "Tamsin Castellanos",
+      "Dilnoza Castellanos"
+    ],
+    "affiliation": "Hollis Mountain Observatory",
+    "section": "Computing",
+    "sectionCode": "CMP",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.02",
+    "publishedAt": "2020-03-08T00:00:00.000Z",
+    "keywords": [
+      "cost accounting",
+      "ablation study",
+      "cross-validation",
+      "cohort design"
+    ],
+    "abstract": "Work in computing research has long relied on assumptions we test directly here. Sensitivity to the smoothing window proved modest across the range we examined. We release the processing scripts and intermediate artefacts to support independent verification. Longer observation windows narrow the confidence interval but do not shift the central estimate.",
+    "firstPage": 5,
+    "pageCount": 3,
+    "pageRange": "5-7",
+    "fileName": "mjas-9-1-02.pdf",
+    "fileSize": 7862
+  },
+  {
+    "id": "mjas-9-1-05",
+    "title": "A Comparative Study of Minimally Invasive Organoid Cultures",
+    "authors": [
+      "Yusuf Dusseault",
+      "Rosalind Zielinski",
+      "Beatriz Thibodeaux"
+    ],
+    "affiliation": "Meridian Institute of Technology",
+    "section": "Biomedical",
+    "sectionCode": "BIO",
+    "journal": "Meridian Journal of Applied Sciences",
+    "volume": 9,
+    "issue": 1,
+    "doi": "10.5281/mjas.9.1.05",
+    "publishedAt": "2020-03-03T00:00:00.000Z",
+    "keywords": [
+      "scaling laws",
+      "calibration",
+      "sensitivity analysis",
+      "reproducibility",
+      "parameter sweep"
+    ],
+    "abstract": "Work in biomedical research has long relied on assumptions we test directly here. The reduced model retains most of the explanatory power at a fraction of the computational cost. Our baseline reproduces the behaviour described in earlier work to within the stated tolerance. Neither of the alternative formulations improved on the simple additive model in our setting.",
+    "firstPage": 17,
+    "pageCount": 3,
+    "pageRange": "17-19",
+    "fileName": "mjas-9-1-05.pdf",
+    "fileSize": 6303
+  }
+]

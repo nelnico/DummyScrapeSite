@@ -1,69 +1,101 @@
-import Image from "next/image";
+import Link from "next/link";
 
-export default function Home() {
+import { levels } from "@/lib/levels";
+import { papers } from "@/lib/papers";
+
+function Difficulty({ value }: { value: number }) {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <span
+      className="font-mono text-xs tracking-tight text-neutral-500 dark:text-neutral-400"
+      title={`Difficulty ${value} of 5`}
+    >
+      {"●".repeat(value)}
+      <span className="text-neutral-300 dark:text-neutral-700">
+        {"●".repeat(5 - value)}
+      </span>
+    </span>
+  );
+}
+
+export default function HomePage() {
+  return (
+    <main className="mx-auto w-full max-w-4xl px-6 py-16">
+      <header className="border-b border-neutral-200 pb-8 dark:border-neutral-800">
+        <p className="font-mono text-xs uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
+          Local scraping practice target
+        </p>
+        <h1 className="mt-3 text-3xl font-semibold tracking-tight">
+          Dummy Scrape Site
+        </h1>
+        <p className="mt-4 max-w-2xl text-neutral-600 dark:text-neutral-300">
+          Every level below serves the same thing: a paginated archive of{" "}
+          {papers.length} journal papers, where each row links to a detail page
+          and a downloadable PDF. The only difference between levels is what
+          they do to stop you scraping them.
+        </p>
+      </header>
+
+      <ol className="mt-10 space-y-3">
+        {levels.map((level) => {
+          const available = level.status === "available";
+          const number = String(level.number).padStart(2, "0");
+
+          const inner = (
+            <>
+              <div className="flex items-baseline gap-3">
+                <span className="font-mono text-sm text-neutral-400 dark:text-neutral-500">
+                  {number}
+                </span>
+                <h2 className="text-base font-semibold">{level.name}</h2>
+                {available ? (
+                  <span className="rounded-full bg-emerald-100 px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
+                    ready
+                  </span>
+                ) : (
+                  <span className="rounded-full bg-neutral-100 px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-neutral-500 dark:bg-neutral-800 dark:text-neutral-400">
+                    planned
+                  </span>
+                )}
+                <span className="ml-auto">
+                  <Difficulty value={level.difficulty} />
+                </span>
+              </div>
+              <p className="mt-2 pl-9 text-sm text-neutral-600 dark:text-neutral-300">
+                {level.summary}
+              </p>
+              <p className="mt-1 pl-9 text-sm text-neutral-500 dark:text-neutral-400">
+                <span className="font-medium text-neutral-600 dark:text-neutral-300">
+                  Forces:
+                </span>{" "}
+                {level.forces}
+              </p>
+            </>
+          );
+
+          return (
+            <li key={level.slug}>
+              {available ? (
+                <Link
+                  href={`/level/${level.slug}`}
+                  className="block rounded-lg border border-neutral-200 p-4 transition-colors hover:border-neutral-400 hover:bg-neutral-50 dark:border-neutral-800 dark:hover:border-neutral-600 dark:hover:bg-neutral-900"
+                >
+                  {inner}
+                </Link>
+              ) : (
+                <div className="block rounded-lg border border-dashed border-neutral-200 p-4 opacity-70 dark:border-neutral-800">
+                  {inner}
+                </div>
+              )}
+            </li>
+          );
+        })}
+      </ol>
+
+      <footer className="mt-12 border-t border-neutral-200 pt-6 text-sm text-neutral-500 dark:border-neutral-800 dark:text-neutral-400">
+        The archive, the journal and every paper in it are invented. The PDFs are
+        generated locally by{" "}
+        <code className="font-mono text-xs">scripts/generate-corpus.mjs</code>.
+      </footer>
+    </main>
   );
 }
